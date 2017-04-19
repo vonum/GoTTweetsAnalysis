@@ -5,6 +5,7 @@ import re
 
 import nltk
 from nltk.corpus import stopwords
+from nltk.stem.wordnet import WordNetLemmatizer
 
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.ensemble import RandomForestClassifier
@@ -23,8 +24,10 @@ def review_to_words(review):
   #    a list, so convert the stop words to a set
   stops = set(stopwords.words("english"))
 
+  lemmatizer = WordNetLemmatizer()
   # 5. Remove stop words
-  meaningful_words = [w for w in words if not w in stops]
+  # Lemmatize words
+  meaningful_words = [lemmatizer.lemmatize(w) for w in words if not w in stops]
 
   # 6. Join the words back into one string separated by space,
   # and return the result.
@@ -48,6 +51,7 @@ for i in xrange(0, num_reviews):
     print "Review %d of %d\n" % (i+1, num_reviews)
   clean_train_reviews.append(review_to_words(train["review"][i]))
 
+print 'Cleaned review'
 print clean_train_reviews[0]
 
 # Creating the Bag of Words model
