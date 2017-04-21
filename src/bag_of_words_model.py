@@ -1,42 +1,21 @@
 import pandas as pd
 
-from bs4 import BeautifulSoup
-import re
-
-import nltk
-from nltk.corpus import stopwords
-from nltk.stem.wordnet import WordNetLemmatizer
-
 from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
+
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.externals import joblib
 
-def review_to_words(review):
-  # 1. Remove HTML
-  review_text = BeautifulSoup(review).get_text()
+from sklearn.model_selection import train_test_split
 
-  # 2. Remove non-letters
-  letters_only = re.sub("[^a-zA-Z]", " ", review_text)
+from text_cleaner import review_to_words
 
-  # 3. Convert to lower case, split into individual words
-  words = letters_only.lower().split()
-
-  # 4. In Python, searching a set is much faster than searching
-  #    a list, so convert the stop words to a set
-  stops = set(stopwords.words("english"))
-
-  lemmatizer = WordNetLemmatizer()
-  # 5. Remove stop words
-  # Lemmatize words
-  meaningful_words = [lemmatizer.lemmatize(w) for w in words if not w in stops]
-
-  # 6. Join the words back into one string separated by space,
-  # and return the result.
-  return( " ".join( meaningful_words ))
-
+'''
+# Train model
 # Load training data
-train = pd.read_csv("../data/kaggle/labeledTrainData.tsv",
+train = pd.read_csv('../data/kaggle/labeledTrainData.tsv',
                     header=0,
-                    delimiter="\t",
+                    delimiter='\t',
                     quoting=3)
 
 print train.columns.values
@@ -48,17 +27,26 @@ clean_train_reviews = []
 
 for i in xrange(0, num_reviews):
   if((i+1) % 1000 == 0):
-    print "Review %d of %d\n" % (i+1, num_reviews)
-  clean_train_reviews.append(review_to_words(train["review"][i]))
+    print 'Review %d of %d\n' % (i+1, num_reviews)
+
+  clean_train_reviews.append(review_to_words(train['review'][i]))
 
 print 'Cleaned review'
 print clean_train_reviews[0]
 
 # Creating the Bag of Words model
-vectorizer = CountVectorizer(analyzer = "word",
+vectorizer = CountVectorizer(analyzer = 'word',
                              tokenizer = None,
                              preprocessor = None,
                              stop_words = None,
+                             max_features = 5000)
+# Creating the TFIDF model
+vectorizer = TfidfVectorizer(analyzer = 'word',
+                             tokenizer = None,
+                             preprocessor = None,
+                             ngram_range = (1, 6),
+                             stop_words = 'english',
+                             sublinear_tf = True,
                              max_features = 5000)
 
 # Fit the Bag of Words model
@@ -76,27 +64,39 @@ print train_data_features.shape
 forest = RandomForestClassifier(n_estimators = 100)
 
 # Fit the Random Forest classifier with training data features and sentiment labels
-forest = forest.fit(train_data_features, train["sentiment"])
+forest = forest.fit(train_data_features, train['sentiment'])
+# Save model
+joblib.dump(forest, 'random_forest.pkl')
+joblib.dump(vectorizer, 'vectorizer.pkl')
+'''
+
+# Load model
+forest = joblib.load('random_forest.pkl')
+vectorizer = joblib.load('vectorizer.pkl')
 
 # Test the model
 # Read the test data
-test = pd.read_csv("../data/kaggle/testData.tsv",
+df = pd.read_csv('../data/kaggle/labeledTrainData.tsv',
                    header=0,
-                   delimiter="\t",
+                   delimiter='\t',
                    quoting=3)
+
+train, test = train_test_split(df, test_size = 0.2)
 
 print test.columns.values
 
 # Create an empty list and append the clean reviews one by one
-num_reviews = len(test["review"])
+num_reviews = len(test['review'])
 clean_test_reviews = []
 
-print "Cleaning and parsing the test set movie reviews...\n"
-for i in xrange(0, num_reviews):
-  if( (i+1) % 1000 == 0 ):
-    print "Review %d of %d\n" % (i+1, num_reviews)
-    clean_review = review_to_words(test["review"][i])
-    clean_test_reviews.append(clean_review)
+print 'Cleaning and parsing the test set movie reviews...\n'
+i = 0
+for review in test['review']:
+  if((i+1) % 1000 == 0):
+    print 'Review %d of %d\n' % (i+1, num_reviews)
+  i += 1
+
+  clean_test_reviews.append(review_to_words(review))
 
 # Transform test reviews from sentences to feature vectors
 # Convert to a numpy array
