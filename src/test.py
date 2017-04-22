@@ -10,12 +10,4 @@ df = pd.read_csv('../data/kaggle/labeledTrainData.tsv',
 
 train, test = train_test_split(df, test_size = 0.3)
 
-for i in test['review']:
-  print len(i)
-
-print train.shape
-print test.shape
-
-print test['review'].shape
-print test['id'].shape
-print test['sentiment'].shape
+pdb.set_trace()
