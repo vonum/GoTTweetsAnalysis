@@ -14,24 +14,30 @@ def tweet_to_words(tweet):
   tweet_text = BeautifulSoup(tweet, 'lxml').get_text()
 
   # 2. Remove urls
-  tweet_text = re.sub(r"http\S+", "", tweet_text)
+  tweet_text = re.sub(r'http\S+', '', tweet_text)
 
   # 3. Change emojis with words
   tweet_text = replace_emojis(tweet_text)
 
-  # 4. Remove non-letters
+  # 4. Remove @
+  tweet_text = re.sub(r'@\S+', '', tweet_text)
+
+  # 5. Remove #
+  tweet_text = re.sub(r'#\S+', '', tweet_text)
+
+  # 6. Remove non-letters
   letters_only = re.sub('[^a-zA-Z]', ' ', tweet_text)
 
-  # 5. Convert to lower case, split into individual words
+  # 7. Convert to lower case, split into individual words
   words = letters_only.lower().split()
 
-  # 6. In Python, searching a set is much faster than searching
+  # 8. In Python, searching a set is much faster than searching
   #    a list, so convert the stop words to a set
   stops = set(stopwords.words('english'))
 
   lemmatizer = WordNetLemmatizer()
   stemmer = SnowballStemmer('english')
-  # 5. Remove stop words
+  # 9. Remove stop words
   # Lemmatize words
   # meaningful_words = [lemmatizer.lemmatize(w) for w in words if not w in stops]
   meaningful_words = [stemmer.stem(w) for w in words if not w in stops]
@@ -89,3 +95,10 @@ def replace_emojis(text):
  }
 
  return reduce(lambda a, kv: a.replace(*kv), repls.iteritems(), text)
+
+def format_sentiments(sentiments):
+  sents = []
+  for sent in sentiments:
+    sents.append(sent)
+
+  return sents

@@ -38,10 +38,6 @@ train_data_features = train_data_features.toarray()
 # Initialize a Random Forest classifier with 100 trees
 forest = RandomForestClassifier(n_estimators = 100)
 
-# Load model
-# forest = joblib.load('../models/cross_validated_random_forest.pkl')
-# vectorizer = joblib.load('../models/tfidf_vectorizer.pkl')
-
 # Fit the Random Forest classifier with training data features and sentiment labels
 print 'Fit random forests model'
 forest = forest.fit(train_data_features, train['sentiment'])

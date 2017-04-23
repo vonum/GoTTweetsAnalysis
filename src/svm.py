@@ -62,6 +62,7 @@ result = clf.predict(test_data_features)
 cnt = 0
 i = 0
 for sent in test['sentiment']:
+  i += 1
   if sent == result[i]:
     cnt += 1
 

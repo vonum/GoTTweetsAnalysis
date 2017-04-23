@@ -10,4 +10,28 @@ df = pd.read_csv('../data/kaggle/labeledTrainData.tsv',
 
 train, test = train_test_split(df, test_size = 0.3)
 
-pdb.set_trace()
+tweets = []
+
+df = pd.read_csv('../data/random/imdb_labelled.txt',
+                header=0,
+                delimiter='\t',
+                quoting=3)
+
+print df.shape
+print df.columns.values
+
+df = pd.read_csv('../data/random/yelp_labelled.txt',
+                header=0,
+                delimiter='\t',
+                quoting=3)
+
+print df.shape
+print df.columns.values
+
+df = pd.read_csv('../data/random/amazon_cells_labelled.txt',
+                header=0,
+                delimiter='\t',
+                quoting=3)
+
+print df.shape
+print df.columns.values
