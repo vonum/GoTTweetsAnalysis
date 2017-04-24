@@ -1,0 +1,217 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink;sentiment
+;2016-06-26 01:56;1;1;"Sansa Stark Layout Rt if you want it pic.twitter.com/jPdFgY7Scr";;;;"746854600855162880";https://twitter.com/GoTLayouts_/status/746854600855162880;0
+;2016-06-26 01:36;0;1;"sansa stark the bravest of them all";;;;"746849488812257280";https://twitter.com/cersex/status/746849488812257280;4
+;2016-06-26 01:30;0;3;"#SansaStark pic.twitter.com/4ABDSgE3cL";;;#SansaStark;"746847987368923136";https://twitter.com/HirraRehmanButt/status/746847987368923136;0
+;2016-06-26 00:47;0;1;"SANSA STARK IS THE TRUE QUEEN IN THE NORTH!";;;;"746837359367335936";https://twitter.com/PotterheadJoan/status/746837359367335936;3
+;2016-06-26 00:41;0;1;"#GameofThrones spoiler: Sansa Stark -Lannister-Bolton will also be traded to the New York Knicks.";;;#GameofThrones;"746835725602086912";https://twitter.com/Christeregis/status/746835725602086912;0
+;2016-06-26 00:23;0;1;"Sansa Stark defense squad";;;;"746831136593219584";https://twitter.com/dracarxys/status/746831136593219584;2
+;2016-06-26 00:13;0;1;"Sansa Stark this season is .";;;;"746828616693055489";https://twitter.com/MrBhathal/status/746828616693055489;0
+;2016-06-26 00:01;0;1;"sansa stark is such a badass";;;;"746825574660767745";https://twitter.com/arxqramlan/status/746825574660767745;4
+;2016-06-25 23:57;0;5;"i hate myself for ever saying anything bad about sansa stark";;;;"746824680728838144";https://twitter.com/SophieGoodwin00/status/746824680728838144;2
+;2016-06-25 23:49;2;3;"check out my latest sansa stark vine ♡ https:// vine.co/v/5uMn9I26mqJ";;;;"746822740213121024";https://twitter.com/theadeIaidekane/status/746822740213121024;2
+;2016-06-25 23:28;0;4;""I am Sansa Stark of Winterfell. This is my home. And you can't frighten me."";;;;"746817408363597824";https://twitter.com/magicinmyveins_/status/746817408363597824;4
+;2016-06-25 23:16;1;0;"It was Sansa Stark who let the dogs out #WhoWhoWhoWho";;;#WhoWhoWhoWho;"746814470668820484";https://twitter.com/GhydaNagi/status/746814470668820484;4
+;2016-06-25 23:15;0;0;"Don't try a woman's revenge sansa stark #GameofThrones pic.twitter.com/FQougtboVN";;;#GameofThrones;"746814074038718464";https://twitter.com/pinpinulu/status/746814074038718464;4
+;2016-06-25 23:14;0;0;"Sansa Stark has the most impressive trasformation in #GoT , can I have this in real life";;;#GoT;"746813722031697920";https://twitter.com/explosivearii/status/746813722031697920;4
+;2016-06-25 23:03;1;0;"[ sansa stark 's voice] no one can protect me. no one can protect anyone.";;;;"746810957188505600";https://twitter.com/serlinakyle/status/746810957188505600;0
+;2016-06-25 22:45;0;0;"I have never read or watched GOT but Jon Snow and Sansa Stark are my favs.";;;;"746806449465102336";https://twitter.com/katie_bellle/status/746806449465102336;2
+;2016-06-25 22:38;1;1;"I love Sansa Stark so much and i will protect her at all cost";;;;"746804716869402624";https://twitter.com/DebnamCJauregui/status/746804716869402624;2
+;2016-06-25 22:17;0;1;"Sansa stark and Theon greyjoy deserves better";;;;"746799620982980608";https://twitter.com/winterscofield/status/746799620982980608;2
+;2016-06-25 22:13;0;3;"All Hail Sansa Stark";;;;"746798498373263361";https://twitter.com/_karlitaboheme/status/746798498373263361;2
+;2016-06-25 21:59;0;1;""Who let the dogs out." - Sansa Stark";;;;"746795088441925632";https://twitter.com/berreceo/status/746795088441925632;0
+;2016-06-25 21:04;0;0;"Crazy Theory About Sansa Stark In 'Game of Thrones' Just Became Very Real http:// fb.me/78GhTkKG7";;;;"746781100526174208";https://twitter.com/sexwithhumor/status/746781100526174208;0
+;2016-06-25 20:39;0;0;"I'm starting to like Sansa Stark more than my lil fave Arya";;;;"746774879102369792";https://twitter.com/Jazmin_Torres/status/746774879102369792;2
+;2016-06-25 20:21;0;1;"Sansa Stark ! pic.twitter.com/wSSUivdiYI";;;;"746770405122248704";https://twitter.com/anathijay/status/746770405122248704;3
+;2016-06-25 20:11;1;2;"sansa stark my queen my angel destroy everyone who ever hated on you please they don't deserve you";;;;"746767900602667012";https://twitter.com/voldemovts/status/746767900602667012;4
+;2016-06-25 20:07;0;1;"Watching Sansa Stark in GoT S01 and Jean Grey in X-Men Apocalypse =";;;;"746766821223653376";https://twitter.com/cheskaprin/status/746766821223653376;0
+;2016-06-25 20:05;0;1;"Daenerys Targaryen and Sansa Stark";;;;"746766218158182400";https://twitter.com/cheskaprin/status/746766218158182400;0
+;2016-06-25 20:02;0;1;"sansa stark lost everyone she loved including her goddamn dog";;;;"746765584730365952";https://twitter.com/peafIower/status/746765584730365952;0
+;2016-06-25 19:46;1;0;"- Sansa Stark";;;;"746761580860313600";https://twitter.com/JDanceInTheDark/status/746761580860313600;0
+;2016-06-25 18:49;0;1;"I can't believe that Sansa Stark invented character development";;;;"746747124558200833";https://twitter.com/Iitorodrigeuz/status/746747124558200833;0
+;2016-06-25 18:31;1;3;"Lagertha Lothbrok > Sansa Stark";;;;"746742561507844096";https://twitter.com/BildircinHunter/status/746742561507844096;1
+;2016-06-25 18:14;2;0;"Sansa Stark Layout Rt if you want it pic.twitter.com/Gm30kfzCO4";;;;"746738363013668864";https://twitter.com/GoTLayouts_/status/746738363013668864;0
+;2016-06-25 18:02;1;5;"Is Sansa Stark pregnant on #GameofThrones ? http:// go.zap2.it/yVvJj pic.twitter.com/CX9yo3GnZI";;;#GameofThrones;"746735293651427328";https://twitter.com/screenertv/status/746735293651427328;0
+;2016-06-25 17:31;0;1;"Tyrion Lannister =Bolivar Trask, Sansa Stark = Jean Grey ,Young Ned Stark = Professor X. Game X Thrones haha";;;;"746727581227986944";https://twitter.com/the__kmac/status/746727581227986944;0
+;2016-06-25 17:29;1;2;"• Sandor Clegane/ Sansa Stark , GoT/ASoIaF They are beautiful and depressing. I LOVE them. pic.twitter.com/Ji0qe2RqZG";;;;"746727084471492612";https://twitter.com/tomcho_/status/746727084471492612;2
+;2016-06-25 17:26;0;1;"SANSA STARK FOR QUEEN OF WESTEROS";;;;"746726151435878405";https://twitter.com/arnicuh/status/746726151435878405;3
+;2016-06-25 16:45;0;1;""You are going to die tomorrow Lord Bolton... sleep well." -- Sansa Stark";;;;"746716038692102144";https://twitter.com/iamcaryltrabz/status/746716038692102144;4
+;2016-06-25 16:27;1;0;"Sansa stark is beautiful";;;;"746711441181315072";https://twitter.com/RankleLemada/status/746711441181315072;2
+;2016-06-25 16:19;0;0;"Jon Snow arguing with Sansa Stark is just making me think that they should just marry each other. HAHA. She's so pretty!";;;;"746709435981017088";https://twitter.com/deanax_/status/746709435981017088;2
+;2016-06-25 16:07;3;4;"which creepy sansa stark ship are you on, or at least maybe open to?";;;;"746706307080609792";https://twitter.com/taylorshiph/status/746706307080609792;0
+;2016-06-25 16:06;1;1;"Arya Stark and Sansa Stark . #GamesOfThrones pic.twitter.com/fQmvDnyd4G";;;#GamesOfThrones;"746706026628550656";https://twitter.com/MissDarknessGH/status/746706026628550656;0
+;2016-06-25 16:00;0;0;"Crazy Theory About Sansa Stark In 'Game of Thrones' Just Became Very Real http:// fb.me/7XJUa1K7h";;;;"746704738650066944";https://twitter.com/viralpop/status/746704738650066944;0
+;2016-06-25 15:55;1;20;"Daughter: Dad, we have to make more Sansa Stark lemoncakes. Me: YYYYYYEEEEEEEEESSSSSSSSSS! #AchievementUnlocked";;;#AchievementUnlocked;"746703473526317056";https://twitter.com/patman23/status/746703473526317056;3
+;2016-06-25 15:37;0;0;"#GameofThrones S06E09 #Sansa Stark #Mass";;;#GameofThrones #Sansa #Mass;"746698768381149189";https://twitter.com/iam_kalyanG/status/746698768381149189;0
+;2016-06-25 15:06;0;1;"I am Sansa Stark of Winterfell, this is my home and you can't frighten me. you go girl";;;;"746690913808715777";https://twitter.com/Chaaambucket/status/746690913808715777;4
+;2016-06-25 14:55;0;1;"why so pretty sansa stark ? :((";;;;"746688258998996993";https://twitter.com/meeeoooww/status/746688258998996993;5
+;2016-06-25 14:06;0;2;"*with thanks to Sansa Stark for the forgotten line. You're always welcome in our great city Alison X";;;;"746675928596619264";https://twitter.com/ddukeofdarkness/status/746675928596619264;0
+;2016-06-25 13:59;1;1;"sansa stark is the real mvp";;;;"746674247452459008";https://twitter.com/ureshiiniji/status/746674247452459008;4
+;2016-06-25 13:41;0;1;"Don't fucking mess with Sansa Stark sia";;;;"746669697601437696";https://twitter.com/fi_fi__fi___/status/746669697601437696;4
+;2016-06-25 13:36;1;6;"Sansa Stark hasn't changed her clothes in months. #GameOfThrones pic.twitter.com/6VF7ydrAf6";;;#GameOfThrones;"746668396113240064";https://twitter.com/EDdotSE/status/746668396113240064;0
+;2016-06-25 13:19;0;2;"SANSA STARK YOU ANDD YOUR TITS CAN DO WONDERS.";;;;"746664007998668800";https://twitter.com/giescrupulo/status/746664007998668800;4
+;2016-06-25 12:22;1;0;"Appreciation tweet for Sophie Turner AKA. Sansa Stark . #GameofThrones pic.twitter.com/Z4Yfq7VnsC";;;#GameofThrones;"746649812834074624";https://twitter.com/farahamr_Frawla/status/746649812834074624;2
+;2016-06-25 11:26;3;0;"Sansa Stark and Margaery Tyrell | Game Of Thrones. I SHIP THEM SO HARD -sandy (Vine by femslash) https:// vine.co/v/etwgXvvPmt9";;;;"746635751400538112";https://twitter.com/Slowsbi21/status/746635751400538112;2
+;2016-06-25 11:20;0;1;"Let's recast #EURef in the #GameofThrones universe. Sansa Stark = Nicola Sturgeon.";;;#EURef #GameofThrones;"746634205757575168";https://twitter.com/andrewwille/status/746634205757575168;0
+;2016-06-25 11:12;0;1;"Sansa Stark is so gorgeous";;;;"746632075227205632";https://twitter.com/Gonatsss/status/746632075227205632;2
+;2016-06-25 10:57;0;0;"I'm in love with @SophieT smiling on Game of Thrones. Sansa Stark desevers happiness !! pic.twitter.com/ssnmt29H4v";;@SophieT;;"746628282607607808";https://twitter.com/gayforeliza/status/746628282607607808;2
+;2016-06-25 10:34;0;1;"sansa stark - recap 3/5 (Vine by stormborn) https:// vine.co/v/i17U179HIh9";;;;"746622647933542400";https://twitter.com/HET_KOTA/status/746622647933542400;0
+;2016-06-25 10:19;0;1;""You're going to die tomorrow lord Bolton. Sleep well." - Lady Sansa Stark /Lannister/Bolton";;;;"746618746442289152";https://twitter.com/ValTargaryen/status/746618746442289152;4
+;2016-06-25 09:53;0;0;"Crazy Theory About Sansa Stark In 'Game of Thrones' Just Became Very Real http:// fb.me/7xxqHAcTK";;;;"746612245170360320";https://twitter.com/DarogeBacon/status/746612245170360320;0
+;2016-06-25 09:36;0;2;"This sansa stark reminds me of someone who believes in fairy tales and happily ever after. My god, disgusting.";;;;"746607913599275009";https://twitter.com/aldakuuks/status/746607913599275009;1
+;2016-06-25 09:23;0;5;"sansa stark";;;;"746604675202326528";https://twitter.com/Rejdcdagulo/status/746604675202326528;0
+;2016-06-25 08:43;0;0;"Sansa Stark : Your words will disappear. Your house will disappear. Your name will disappear. All memory of you will disappear.";;;;"746594734400020480";https://twitter.com/ItsSabriXO/status/746594734400020480;4
+;2016-06-25 08:26;0;0;"Smirk ala Sansa Stark !! (at East Fairview Heights) [pic] — https:// path.com/p/UGgWY";;;;"746590363842863104";https://twitter.com/BossBear/status/746590363842863104;3
+;2016-06-25 07:46;0;0;"Your words will disappear. Your name will disappear. All memories will disappear. - Sansa Stark .";;;;"746580240793690112";https://twitter.com/inge_august/status/746580240793690112;4
+;2016-06-25 07:37;0;0;"Sansa Stark for the Iron Throne! @GameOfThrones @SophieT";;@GameOfThrones @SophieT;;"746578014670970884";https://twitter.com/jenna_pr/status/746578014670970884;2
+;2016-06-25 07:28;0;1;"Sansa Stark is fucking hot winterfell might melt lol.";;;;"746575868969922561";https://twitter.com/vdmofmnl/status/746575868969922561;2
+;2016-06-25 07:27;17;10;""We need to trust each other. We have so many enemies now." —Jon Snow to Sansa Stark ~~~ be strong!!!";;;;"746575445596864512";https://twitter.com/d_lawbreaker/status/746575445596864512;3
+;2016-06-25 07:13;0;2;"I'd wife Sansa Stark";;;;"746571979688411138";https://twitter.com/apollox97/status/746571979688411138;2
+;2016-06-25 06:33;0;0;"Crazy Theory About Sansa Stark In 'Game of Thrones' Just Became Very Real http:// fb.me/846wmMSEK";;;;"746561866823008257";https://twitter.com/TickleMeFunny1/status/746561866823008257;0
+;2016-06-25 06:07;0;0;"This is only interesting to me but I'm currently mind blown that I'm older than Sophie Turner aka Sansa Stark . What.";;;;"746555314573615104";https://twitter.com/ktlaguardia/status/746555314573615104;0
+;2016-06-25 05:23;0;3;"THE CRINGE #SophieTurner #SansaStark #GameofThrones pic.twitter.com/owHMt6sL0b";;;#SophieTurner #SansaStark #GameofThrones;"746544230693224449";https://twitter.com/WuzPoppinSophie/status/746544230693224449;1
+;2016-06-25 04:19;8;8;"Sansa Stark -traumatized and abused -enjoys stories about chivalry -clever and intelligent pic.twitter.com/bMpaY13j2j";;;;"746528223870259200";https://twitter.com/lyannaboleyn/status/746528223870259200;0
+;2016-06-25 04:19;0;1;"What if I just got a fucking Sansa Stark tattoo?";;;;"746528099081273344";https://twitter.com/ohyoda/status/746528099081273344;2
+;2016-06-25 04:09;0;0;"I liked a @YouTube video http:// youtu.be/PUhp4l2T6nA?a Game of Thrones - Sansa Stark Evolution, Battle of Winterfell";;@YouTube;;"746525673087508481";https://twitter.com/hazey_shadow/status/746525673087508481;0
+;2016-06-25 03:37;14;40;""i hate sansa stark " can easily be translated to "i am a misogynist who blames victims"";;;;"746517674184716288";https://twitter.com/ezekielfiguero/status/746517674184716288;2
+;2016-06-25 03:24;0;1;"I am daenerys arya sansa stark :P @lotylots https://www. instagram.com/p/BHDxS9Cj7EG/";;@lotylots;;"746514370671312896";https://twitter.com/sjr_125/status/746514370671312896;0
+;2016-06-25 03:20;0;0;"These “Game of Thrones” actors support this new, chilling theory about Sansa Stark http:// fb.me/8FkoNMmBU";;;;"746513295562006528";https://twitter.com/wwwreynoldskri1/status/746513295562006528;0
+;2016-06-25 03:02;0;1;"sansa stark is my fucking hero";;;;"746508810764713986";https://twitter.com/allisonrangel10/status/746508810764713986;4
+;2016-06-25 02:51;0;0;"''kill 'em with kindness'' reminds me of sansa stark idk";;;;"746506025633718272";https://twitter.com/avgerogvnn/status/746506025633718272;0
+;2016-06-25 02:33;2;1;"Be like Sansa Stark is the next to die.";;;;"746501613636902913";https://twitter.com/mister_ray_/status/746501613636902913;0
+;2016-06-25 02:18;0;0;""your words will disappear. your house will disappear. your name will disappear. all memory of you will disappear." - sansa stark";;;;"746497816231542785";https://twitter.com/emmastonei/status/746497816231542785;4
+;2016-06-25 02:08;0;4;"Sansa Stark is such a bitch";;;;"746495300500496384";https://twitter.com/aly_dailey/status/746495300500496384;1
+;2016-06-25 01:55;0;1;"My dad who has watched 5 seasons of game of thrones, asked who Sansa Stark was...";;;;"746492005698666496";https://twitter.com/niColekast/status/746492005698666496;0
+;2016-06-25 01:41;0;1;"Sansa Stark - character!! development!! - deserves happiness - queen in the north pic.twitter.com/ozHWeGJgqc";;;;"746488525806149636";https://twitter.com/aIyciakisses/status/746488525806149636;2
+;2016-06-25 01:37;1;1;"This is everything. #SansaStark #GameOfThrones pic.twitter.com/3XE3UTHq2T";;;#SansaStark #GameOfThrones;"746487472394223616";https://twitter.com/grandrna/status/746487472394223616;0
+;2016-06-25 01:36;0;1;"if u dont like sansa stark we cant be friends";;;;"746487160128299008";https://twitter.com/rainbrain999/status/746487160128299008;2
+;2016-06-25 01:33;0;0;"Sansa Stark quote https:// twitter.com/YourLordTywin/ status/746485819830116352 …";;;;"746486325801422852";https://twitter.com/ServantOnIce/status/746486325801422852;0
+;2016-06-25 01:25;0;2;"Tell that to Sansa Stark https:// twitter.com/vivalazina/sta tus/746468954768564224 …";;;;"746484406446063616";https://twitter.com/DoctaDonn/status/746484406446063616;0
+;2016-06-25 01:05;0;0;"Sansa Stark got raped in Game of Thrones sheeeesh that's tough";;;;"746479426569912320";https://twitter.com/HoudiniHudson_/status/746479426569912320;5
+;2016-06-25 00:47;0;3;"Sansa Stark as Jean Grey";;;;"746474962119176192";https://twitter.com/ViewsFrmTheSikh/status/746474962119176192;0
+;2016-06-25 00:46;0;2;"Just managed to finally communicate to a Brexiteer by explaining, "I am Sansa Stark angry."";;;;"746474564121726976";https://twitter.com/K8JohnsonAuthor/status/746474564121726976;0
+;2016-06-25 00:45;0;1;"#GameOfThrones #SansaStark #sophieturner pic.twitter.com/e4Lzqm4i8i";;;#GameOfThrones #SansaStark #sophieturner;"746474341919924224";https://twitter.com/AGroupHasNoName/status/746474341919924224;0
+;2016-06-25 00:38;0;0;"Feeling a bit like Sansa Stark pre-battle tonight. #NoOneCanProtectAnyone pic.twitter.com/JNNyZmnmdN";;;#NoOneCanProtectAnyone;"746472702991540226";https://twitter.com/bluehero/status/746472702991540226;0
+;2016-06-25 00:38;0;0;"The life and times if Sansa Stark https:// twitter.com/iComplexity/st atus/746472348182687744 …";;;;"746472699661213696";https://twitter.com/NOtReaLLyNuSe/status/746472699661213696;0
+;2016-06-25 00:38;0;0;"I’m behind on #GameOfThrones but Sansa Stark is becoming one hell of a BAMF.";;;#GameOfThrones;"746472658498387968";https://twitter.com/DukeOfHavoc/status/746472658498387968;4
+;2016-06-25 00:33;0;2;"Sansa Stark is pregnant with Ramsey Boltons baby #GameofFacts";;;#GameofFacts;"746471418771103745";https://twitter.com/YourBoyCurranJ/status/746471418771103745;0
+;2016-06-25 00:31;1;4;"Can't believe first coffee shop me and court went into we saw Sansa Stark wtf";;;;"746470951357915137";https://twitter.com/connormacd17/status/746470951357915137;0
+;2016-06-25 00:11;0;1;"1. friend!! 2. tbh anytime i see the words post serum 3. sansa stark 4. 12/10 5. 11/10";;;;"746465911545049088";https://twitter.com/piotrsrasputin/status/746465911545049088;0
+;2016-06-25 00:09;0;0;"It's official. Ramsey Bolton's death is my favorite. Long live Sansa Stark";;;;"746465266570166272";https://twitter.com/_alllygatorr_/status/746465266570166272;2
+;2016-06-25 00:01;0;1;"Sansa Stark being the turning point in a battle against her abusive ex is EXACTLY what game of thrones needed rn";;;;"746463175881723905";https://twitter.com/_alllygatorr_/status/746463175881723905;0
+;2016-06-24 23:49;0;1;"With Katniss Everdeen and Sansa Stark in X-men apocalypse, it can't be a bad movie, right?";;;;"746460270780776448";https://twitter.com/Yones_I/status/746460270780776448;0
+;2016-06-24 23:42;0;0;"@SophieT #SansaStark #GameofThrones pic.twitter.com/r2kIFQFA1v";;@SophieT;#SansaStark #GameofThrones;"746458622268411904";https://twitter.com/GegeRDM/status/746458622268411904;0
+;2016-06-24 23:41;0;2;"Sansa Stark became top 3 fav characters in this show";;;;"746458327303880704";https://twitter.com/KVTLVDY/status/746458327303880704;2
+;2016-06-24 23:39;1;0;"-stranger -game of thrones, x-men - sansa stark -9/10 -10/10";;;;"746457834750021632";https://twitter.com/choisevngcheoI/status/746457834750021632;0
+;2016-06-24 23:36;0;0;"'Your name will disappear' - Sansa Stark , S06E09, Game of Thrones - https:// i.redd.it/pc6rxssl2a5x.j pg … #reddit #fb";;;#reddit #fb;"746457056555700224";https://twitter.com/kimme/status/746457056555700224;0
+;2016-06-24 23:29;0;1;"#playHITSlist 1. Bad blood 2. Eraserhead 3. Sansa stark";;;#playHITSlist;"746455188182020096";https://twitter.com/elspethhxox/status/746455188182020096;0
+;2016-06-24 23:26;0;11;"I am so proud of Jon and Sansa Stark";;;;"746454351695220736";https://twitter.com/skinstrash/status/746454351695220736;4
+;2016-06-24 23:21;0;1;"sansa stark";;;;"746453286719479808";https://twitter.com/GNYHikmet/status/746453286719479808;0
+;2016-06-24 23:07;0;1;"#SansaStark #GameofThrones pic.twitter.com/9k12Q3TUnW";;;#SansaStark #GameofThrones;"746449651004497920";https://twitter.com/Unknown_L1x/status/746449651004497920;0
+;2016-06-24 23:05;0;0;"Crazy Theory About Sansa Stark In 'Game of Thrones' Just Became Very Real http:// fb.me/7WZq6ZhYa";;;;"746449141488828416";https://twitter.com/IDeclareShenani/status/746449141488828416;0
+;2016-06-24 23:04;0;3;"Sansa Stark is my love.";;;;"746448990300868609";https://twitter.com/sareenuhhdollaz/status/746448990300868609;2
+;2016-06-24 23:03;0;0;"Arya ou Sansa Stark https:// twitter.com/ArthurCestMoi/ status/746107721326411776 …";;;;"746448655633223680";https://twitter.com/angel_bzh/status/746448655633223680;0
+;2016-06-24 22:58;7;8;"Sophie Turner / Sansa Stark . pic.twitter.com/CmmDc1uwuG";;;;"746447433601671168";https://twitter.com/emiIieclarke/status/746447433601671168;0
+;2016-06-24 22:43;6;5;"Maisie Williams / Arya Stark. Sophie Turner / Sansa Stark . #Mophie pic.twitter.com/o8C7j7GgTb";;;#Mophie;"746443728772947968";https://twitter.com/emiIieclarke/status/746443728772947968;0
+;2016-06-24 22:31;0;1;"top 5 female characters : Blair Waldorf Naomi Clark Cersei Lannister Malia Tate Sansa Stark";;;;"746440737353506816";https://twitter.com/robbstzrk/status/746440737353506816;2
+;2016-06-24 22:08;1;0;"Sansa Stark is becoming pretty also";;;;"746434908600545280";https://twitter.com/_jouce/status/746434908600545280;2
+;2016-06-24 22:03;0;0;"Crazy Theory About Sansa Stark In 'Game of Thrones' Just Became Very Real http:// fb.me/4KfdZXJZx";;;;"746433567962636292";https://twitter.com/PamelaOlivia4/status/746433567962636292;0
+;2016-06-24 21:45;0;1;"THIS SONG IS LITERALLY SANSA STARK EVERYONE GO LISTEN TO IT RIGHT NOw pic.twitter.com/DHClQsW8NZ";;;;"746429110918885376";https://twitter.com/hvfflepuff/status/746429110918885376;0
+;2016-06-24 21:43;0;1;"#playHITSlist 1. Bad Blood. 2. Eraser Head. 3. Sansa Stark . If I don't win ill start my own political party";;;#playHITSlist;"746428598089883649";https://twitter.com/kaichappell25/status/746428598089883649;0
+;2016-06-24 21:43;0;1;"Sansa Stark is a literal badass";;;;"746428539142995969";https://twitter.com/marenthm/status/746428539142995969;4
+;2016-06-24 21:35;1;0;"I like the new Sansa Stark ...Savage https:// twitter.com/jamjefraser/st atus/745191864664526848 …";;;;"746426432046276608";https://twitter.com/_3ddy/status/746426432046276608;2
+;2016-06-24 21:11;6;6;"Sansa Stark : "There are no heroes. In life, the monsters win."";;;;"746420381989363714";https://twitter.com/Game_0fThrones/status/746420381989363714;0
+;2016-06-24 21:10;1;1;"Sansa Stark is an actual angel and if you think otherwise then yOU ARE WRONG";;;;"746420158370091009";https://twitter.com/umysnowflake/status/746420158370091009;2
+;2016-06-24 21:08;0;0;"kahlanhbic: Sansa stark in the godswood. https:// tmblr.co/ZGr1Gv28N7ZzK";;;;"746419781901889537";https://twitter.com/woodsman2b/status/746419781901889537;0
+;2016-06-24 20:21;0;0;"sansa stark was stripped of affection and love when her father's head was chopped off until she met jon";;;;"746407829242789889";https://twitter.com/elliotfintry/status/746407829242789889;0
+;2016-06-24 20:04;0;0;"Dorkly Comic – Sansa Stark : Season 1 vs. Season 6 http:// dlvr.it/Lf1pjV pic.twitter.com/SAZjGYlTkg";;;;"746403753662636032";https://twitter.com/orateando/status/746403753662636032;0
+;2016-06-24 19:52;0;0;"I know it's far away but I'm gonna be Sansa Stark for Halloween";;;;"746400528821796864";https://twitter.com/briceidaperez98/status/746400528821796864;2
+;2016-06-24 19:30;3;9;"Sansa Stark Season 1 vs Season 6 - http:// ow.ly/4mvi301BD1K pic.twitter.com/O1gPexhxRJ";;;;"746395075119194113";https://twitter.com/dorkly/status/746395075119194113;0
+;2016-06-24 19:27;0;0;"Crazy Theory About Sansa Stark In 'Game of Thrones' Just Became Very Real http:// fb.me/7UHdjd9Ax";;;;"746394307658137600";https://twitter.com/UnlawfulHumor/status/746394307658137600;0
+;2016-06-24 19:13;1;4;"Sansa Stark is Not Pregnant, You Should All Be Ashamed of Yourselves http:// bit.ly/28VYk8r";;;;"746390857553612801";https://twitter.com/pajiba/status/746390857553612801;0
+;2016-06-24 18:50;0;1;"Sansa Stark <3 Sansa Stark <3 Sansa Stark <3";;;;"746385128725741568";https://twitter.com/PaigeFrazer/status/746385128725741568;2
+;2016-06-24 18:34;0;0;". Lady Sansa, Stark of Winterfell. https:// twitter.com/gameofthronefr /status/746378200461246464 …";;;;"746381091443904512";https://twitter.com/Lumiere__6/status/746381091443904512;0
+;2016-06-24 18:03;0;3;"At this rate, if Sansa Stark doesn’t end up as ruler of the North on Sunday/Monday, I WILL BE FURIOUS.";;;;"746373265485082624";https://twitter.com/DrTomFlynn/status/746373265485082624;2
+;2016-06-24 17:54;0;0;"Sansa Stark /Jean Grey pic.twitter.com/wB4QBrer2n";;;;"746371048271020032";https://twitter.com/sargelimshady/status/746371048271020032;0
+;2016-06-24 17:48;3;3;"Sansa Stark pic.twitter.com/0aLMdoIoDc";;;;"746369525914963968";https://twitter.com/CPBMB/status/746369525914963968;0
+;2016-06-24 17:42;0;4;"The Las Vegas Diaries: 1. Our flight attendant looked like Sansa Stark . 2. I've been invited to too many strip clubs.";;;;"746368005324451844";https://twitter.com/bearuhjass/status/746368005324451844;0
+;2016-06-24 17:42;0;1;"-‣‣ SANSA STARK KILLING RAMSAY WAS THE BEST MOMENT OF MY EXISTENCE. THE SMIRK SHE HAS WHEN SHE WALKS AWAY FROM HIS CORPSE.";;;;"746367959602503680";https://twitter.com/oflionsandsuns/status/746367959602503680;4
+;2016-06-24 17:36;1;2;"Ngl kinda waiting for Sansa Stark to appear over the horizon and save us all #Brexitvote";;;#Brexitvote;"746366490979504128";https://twitter.com/TheDanChapter/status/746366490979504128;0
+;2016-06-24 17:35;0;3;"it doesn't matter... Sansa Stark has other icon!";;;;"746366185785200640";https://twitter.com/YgritteSavage/status/746366185785200640;0
+;2016-06-24 17:33;0;0;""If Ramsay wins, I'm not going back there alive." Even Sansa Stark preferred Jauhar to barbarians. #GameofThrones";;;#GameofThrones;"746365710662799362";https://twitter.com/paynchOm/status/746365710662799362;0
+;2016-06-24 17:12;0;0;"I'm strangely attracted to Sansa Stark now";;;;"746360458983182336";https://twitter.com/sick_addiction_/status/746360458983182336;2
+;2016-06-24 17:11;0;1;"don't mess with a women, even od she looks so cute // Sansa Stark // https:// vine.co/v/5uunY2Xi0Jl";;;;"746360003410407424";https://twitter.com/valuablegiirl/status/746360003410407424;4
+;2016-06-24 16:52;1;0;"Sansa Stark , Queen in the North, passando na sua timeline. pic.twitter.com/xWg5Cc80Fd";;;;"746355274395561984";https://twitter.com/pimentiinhadoce/status/746355274395561984;0
+;2016-06-24 16:50;1;4;"Are Jon Snow and Sansa Stark planning their own Winterfell #Brexit from the 7 Kingdoms? Find out this Sunday on HBO!";;;#Brexit;"746354941661487104";https://twitter.com/4ndrewT4ylor/status/746354941661487104;0
+;2016-06-24 16:50;0;0;"This message brought to you by Sansa Stark . #GoT http:// fb.me/3u8fWykp3";;;#GoT;"746354785608142848";https://twitter.com/PhilBuonomo/status/746354785608142848;0
+;2016-06-24 16:46;0;13;"Speed Paint: Sansa Stark http:// ericadrawsstuff.com/2016/06/24/spe ed-paint-sansa-stark … pic.twitter.com/kmJi2v89mj";;;;"746353708624011264";https://twitter.com/erica_prime/status/746353708624011264;2
+;2016-06-24 16:17;0;6;"OMG I am starting to love Sansa Stark";;;;"746346622284500993";https://twitter.com/breeaguiting/status/746346622284500993;2
+;2016-06-24 16:16;0;0;"SANSA SANSA SANSA SANSA JON SNOW SANSA JON SNOW SANSA JON SNOW JON SNOW SANSA STARK SANSA STARK";;;;"746346203936342016";https://twitter.com/jogwarts/status/746346203936342016;3
+;2016-06-24 16:15;0;0;"tessa gray, emma carstairs, blue sargent, sansa stark https:// twitter.com/Iihncinder/sta tus/745980312199454720 …";;;;"746345941087617024";https://twitter.com/reignofsam/status/746345941087617024;0
+;2016-06-24 16:05;0;0;"Sansa Stark Season 1 vs Season 6: via http:// budurl.com/RGBBlog12 #Comics http:// dld.bz/eD2Af";;;#Comics;"746343391575810048";https://twitter.com/BejahComics/status/746343391575810048;0
+;2016-06-24 14:56;2;9;"I tend not to be political, but has anyone examined Sansa Stark 's role in the #Brexit ? Discuss.";;;#Brexit;"746326243977486338";https://twitter.com/patman23/status/746326243977486338;0
+;2016-06-24 14:53;0;2;"Sansa Stark . Daenerys Targaryen. Arya Stark. The women of #GOT are killing it";;;#GOT;"746325486972739584";https://twitter.com/gracemerin/status/746325486972739584;4
+;2016-06-24 14:36;0;0;"I used to fc sansa stark - oh god I forgot her real name https:// twitter.com/vhalarmorgulis /status/746320825830105088 …";;;;"746321136791609344";https://twitter.com/DARKFXRCE/status/746321136791609344;0
+;2016-06-24 14:36;3;3;"On a scale of 1 to sansa stark , how much do you regret your childhood crush ?";;;;"746320974337826816";https://twitter.com/georgio_ag/status/746320974337826816;0
+;2016-06-24 13:40;0;0;"Ans 14 - Ramsay was Sansa Stark 's second husband #GoTIt #Contest";;;#GoTIt #Contest;"746307121818460160";https://twitter.com/PinkyDholakia/status/746307121818460160;0
+;2016-06-24 13:20;39;28;"Here's the 14th question for #GoTIt #Contest 14. Who was Sansa Stark 's second husband?";;;#GoTIt #Contest;"746302061827002368";https://twitter.com/DIGISOL_SNSL/status/746302061827002368;0
+;2016-06-24 12:32;0;1;"Sansa Stark 's character development, though. #GameofThrones";;;#GameofThrones;"746290011268481025";https://twitter.com/SQsCanary/status/746290011268481025;4
+;2016-06-24 12:29;0;0;"There is only one place we are going which is home.... Sansa stark GOT";;;;"746289228313657344";https://twitter.com/maji_isah/status/746289228313657344;0
+;2016-06-24 12:17;1;3;"Please can scotland be independent now";;;;"746286123220074496";https://twitter.com/_SansaStark__/status/746286123220074496;0
+;2016-06-24 12:11;0;1;"Donald trump said Britain leaving the EU was a great thing, so that gives me the fear";;;;"746284650134388736";https://twitter.com/_SansaStark__/status/746284650134388736;0
+;2016-06-24 12:11;0;3;"Sansa Stark bringing home the goods";;;;"746284561487790080";https://twitter.com/georgiaeasonx/status/746284561487790080;0
+;2016-06-24 11:40;0;0;"No joke I thought one of the places in England was going to do a Sansa stark and save the remain campaign";;;;"746276822174867457";https://twitter.com/jayde4lyf/status/746276822174867457;0
+;2016-06-24 11:33;0;0;"And then I'd introduce Nigel to Sansa Stark . I'm sure those dogs need to be fed again.";;;;"746274941658603520";https://twitter.com/James7666/status/746274941658603520;0
+;2016-06-24 10:56;0;0;"I feel like Sansa Stark , going from Cameron to Johnson is like going from Joffrey to Ramsey Bolton #Brexit";;;#Brexit;"746265766417276928";https://twitter.com/AphidOverdo/status/746265766417276928;0
+;2016-06-24 10:16;0;0;"Where's sansa stark when the north needs her? https:// twitter.com/IsmeeErin/stat us/746194460552232962 …";;;;"746255590494613504";https://twitter.com/balyenaprincess/status/746255590494613504;2
+;2016-06-24 10:00;1;3;"The Sterling needs Sansa Stark to come save it.";;;;"746251643776270336";https://twitter.com/kaalakawaa/status/746251643776270336;2
+;2016-06-24 09:47;0;1;"Sansa Stark save us please. Your Country needs you.";;;;"746248334864695296";https://twitter.com/Larry_Oniks/status/746248334864695296;2
+;2016-06-24 09:46;0;1;"#NewHeader #self #SansaStark pic.twitter.com/R9OJqeau7V";;;#NewHeader #self #SansaStark;"746248200428785664";https://twitter.com/FragileIvory/status/746248200428785664;0
+;2016-06-24 09:45;1;0;"Britain may end up with this like Sansa Stark . #Brexit";;;#Brexit;"746247857842204673";https://twitter.com/marketnewstr/status/746247857842204673;0
+;2016-06-24 09:23;0;0;"As it happened to Sansa Stark & Me Too #GameofThrones https:// twitter.com/_Coldflames/st atus/746240827857436672 …";;;#GameofThrones;"746242343968378880";https://twitter.com/MSidAhmd/status/746242343968378880;0
+;2016-06-24 08:43;0;0;"darlenealdersons: Rickon Stark, Shaggydog, Sansa Stark , and Ghost, Tim Burton-style by bubug https:// tmblr.co/ZRQGig28Lq5TN";;;;"746232326565167107";https://twitter.com/currytakehome/status/746232326565167107;0
+;2016-06-24 08:35;1;6;"I imagine this is what it would feel like if Sansa Stark hadn't turned up at the last minute. #EUref";;;#EUref;"746230147154468864";https://twitter.com/Jmeflah/status/746230147154468864;0
+;2016-06-24 08:33;0;0;"Crazy Theory About Sansa Stark In 'Game of Thrones' Just Became Very Real http:// fb.me/7aCtY7LDs";;;;"746229748565630976";https://twitter.com/cuz_im_a_boss_b/status/746229748565630976;0
+;2016-06-24 08:30;40;81;"Sansa Stark #GameOfThrones pic.twitter.com/S8VDQIEgme";;;#GameOfThrones;"746229044442587136";https://twitter.com/TronoDiSpade_it/status/746229044442587136;0
+;2016-06-24 08:30;2;1;"#TheProblemIsThat Jon Snow cannot marry Sansa Stark";;;#TheProblemIsThat;"746229005481709568";https://twitter.com/Lost_Sperm/status/746229005481709568;0
+;2016-06-24 07:58;0;0;"I've grown fond of Sansa Stark recently but i cant forget all the stupidity by her in previous seasons.";;;;"746221040674578432";https://twitter.com/benaazp/status/746221040674578432;2
+;2016-06-24 07:48;0;2;"Meni je Sansa Stark lepa u svim pogledima, osim boje oka. Dat creepy.";;;;"746218529238585346";https://twitter.com/W0rldVi0lation/status/746218529238585346;2
+;2016-06-24 07:04;0;0;"How did Sansa Stark know that Ramsay hasn't fed his hounds for seven days? @SophieT #GameofThrones";;@SophieT;#GameofThrones;"746207370171158529";https://twitter.com/RogelioCantu92/status/746207370171158529;0
+;2016-06-24 06:35;0;1;"seeing Sansa Stark in X-Men had me all messed up..";;;;"746199975504183298";https://twitter.com/Princejones06/status/746199975504183298;0
+;2016-06-24 06:31;0;1;"i thought Jon snow was about to die for a second time... Your boy was ready af... Intense episode overall, long live Sansa Stark";;;;"746199003641978881";https://twitter.com/baenessarod/status/746199003641978881;2
+;2016-06-24 06:24;1;2;"What did Scotland do to deserve Sansa Stark 's life?";;;;"746197181988646912";https://twitter.com/HaydenWright/status/746197181988646912;5
+;2016-06-24 06:20;0;3;"Awe. I was hoping the next ep was just an hour of Sansa Stark castrating and torturing Ramsay Bolton.";;;;"746196189440155649";https://twitter.com/jessjupiter/status/746196189440155649;4
+;2016-06-24 05:41;0;0;"am i making a huge rant about how awesome sansa stark is to post on facebook, yes i am";;;;"746186402828853248";https://twitter.com/minyoonjies/status/746186402828853248;2
+;2016-06-24 05:35;0;1;"Sansa stark come save us pls";;;;"746185050694115329";https://twitter.com/Steven_McFeat/status/746185050694115329;2
+;2016-06-24 05:31;0;2;"Sansa Stark yaaaa :3";;;;"746184060855271424";https://twitter.com/kedilipisi/status/746184060855271424;2
+;2016-06-24 05:16;0;0;"I really want Sansa Stark to die. Preferably a slow and painful death.";;;;"746180047615234052";https://twitter.com/JimmyClarke/status/746180047615234052;1
+;2016-06-24 05:15;0;4;"if #Brexit goes ahead will I still be allowed to stroke off to Sansa Stark";;;#Brexit;"746179998503993345";https://twitter.com/_BD12/status/746179998503993345;2
+;2016-06-24 05:10;0;0;"djrewolf: Multifandom Graphics Challenge | @djrewolf ↳ Prompt: sansa stark + blue https:// tmblr.co/ZTbcCt28LLHEs";;@djrewolf;;"746178619257536512";https://twitter.com/armandogrin/status/746178619257536512;0
+;2016-06-24 05:03;0;7;"Sansa Stark , The Queen of Winter pic.twitter.com/U64LuSTZ9a";;;;"746176935789617152";https://twitter.com/beyond_wall/status/746176935789617152;0
+;2016-06-24 04:55;1;2;"#mood .... I do my enemies like Sansa Stark ... @ESPN Inc. https://www. instagram.com/p/BHBW77OhfhG/";;@ESPN;#mood;"746174935710633984";https://twitter.com/Rosenbergradio/status/746174935710633984;4
+;2016-06-24 04:52;0;0;"Crazy Theory About Sansa Stark In 'Game of Thrones' Just Became Very Real http:// fb.me/1jXsKSMBc";;;;"746174091967799296";https://twitter.com/InternetsBroken/status/746174091967799296;0
+;2016-06-24 04:25;0;1;"or Sansa Stark 's arc, all 3 too explosive ...";;;;"746167251146051589";https://twitter.com/RealPeterman/status/746167251146051589;0
+;2016-06-24 04:09;0;1;"also i really really like who Sansa Stark is becoming and I've always loved Arya. much love for Arya, really";;;;"746163259225444352";https://twitter.com/blackedt/status/746163259225444352;2
+;2016-06-24 03:50;6;8;"Sansa Stark pic.twitter.com/NClOgzBikU";;;;"746158614168084480";https://twitter.com/shiru_ddeok/status/746158614168084480;0
+;2016-06-24 03:49;0;3;"The Celtics need Sansa Stark in the War Room.";;;;"746158362828509184";https://twitter.com/McLaughTheHook/status/746158362828509184;0
+;2016-06-24 03:34;1;0;"We need a Sansa Stark to come thruu https:// twitter.com/twolattestogo/ status/746153976005951488 …";;;;"746154395872661504";https://twitter.com/johnbattiste/status/746154395872661504;2
+;2016-06-24 03:15;0;0;"Day 1637 and still no Sansa stark or laurel lance pop funko";;;;"746149737909227520";https://twitter.com/emma_bobo_/status/746149737909227520;2
+;2016-06-24 03:10;0;0;"Can we talk about how Sansa Stark is the fukken MVP of Thrones?";;;;"746148369094041601";https://twitter.com/PITmounD/status/746148369094041601;4
+;2016-06-24 03:06;0;2;"I love Sansa Stark ! #GoT";;;#GoT;"746147495256989697";https://twitter.com/lhenrique_real/status/746147495256989697;4
+;2016-06-24 03:01;0;1;"#GameofThrones #sansaStark #gon_snow pic.twitter.com/cSdSgLdzHd";;;#GameofThrones #sansaStark #gon_snow;"746146084280541185";https://twitter.com/ali_khazaal/status/746146084280541185;0
+;2016-06-24 03:00;0;7;"I spent seasons despising Sansa Stark but now I her. #GameofThrones";;;#GameofThrones;"746145856697446400";https://twitter.com/nickiloeven/status/746145856697446400;2
+;2016-06-24 02:56;1;1;"God bless Sansa Stark #GameofThrones pic.twitter.com/krD0HWMPxh";;;#GameofThrones;"746144953861046272";https://twitter.com/lovemagicworld/status/746144953861046272;2
+;2016-06-24 02:51;1;0;"SANSA STARK FOR PRESIDENT";;;;"746143791636066304";https://twitter.com/olageeeee/status/746143791636066304;2
+;2016-06-24 02:49;0;1;"#jonsnow #sansastark #gotseason6x9 https://www. instagram.com/p/BHBIjChhzUU/";;;#jonsnow #sansastark #gotseason6x9;"746143290710360064";https://twitter.com/cecil1108/status/746143290710360064;0
+;2016-06-24 02:49;1;0;"London gonna roll in like Sansa Stark and win this for remain";;;;"746143275225092096";https://twitter.com/rickydimech123/status/746143275225092096;0
+;2016-06-24 02:45;10;8;"Who let the dogs out? Sansa Stark pic.twitter.com/7GdWbz8taa";;;;"746142076643983360";https://twitter.com/Sicksteen_216/status/746142076643983360;4
+;2016-06-24 02:33;2;4;"Sansa Stark : "There are no heroes. In life, the monsters win."";;;;"746139037057056768";https://twitter.com/Game_0fThrones/status/746139037057056768;0
+;2016-06-24 02:22;2;0;"Sansa Stark from the house stark and Queen in the north pic.twitter.com/cdXMNMq7cn";;;;"746136339901485056";https://twitter.com/penguinkiller/status/746136339901485056;4
+;2016-06-24 02:21;0;6;"SANSA STARK !!!!!! Is what I have to say after the latest GoT episode. I loved it!!";;;;"746136141447962628";https://twitter.com/gthreepio/status/746136141447962628;3
+;2016-06-24 02:07;0;0;"She wanna be Sansa Stark so bad https:// twitter.com/Xtina_Daily/st atus/746126259931881472 …";;;;"746132660389560320";https://twitter.com/D0wJ0nEs/status/746132660389560320;0
+;2016-06-24 02:07;0;0;"Crazy Theory About Sansa Stark In 'Game of Thrones' Just Became Very Real http:// fb.me/67PUxJc7v";;;;"746132554454024192";https://twitter.com/ik80408215/status/746132554454024192;0
+;2016-06-24 01:58;0;0;"Sansa Stark is literally the Queen of the North yo";;;;"746130231694495744";https://twitter.com/superblakes/status/746130231694495744;4
+;2016-06-24 01:49;0;0;"queen of westeros // sansa stark pic.twitter.com/R1lOF5j9R3";;;;"746127972856434688";https://twitter.com/wckdmaIfoy/status/746127972856434688;0
+;2016-06-24 01:10;0;1;"Sansa Stark you are my hero";;;;"746118260815335424";https://twitter.com/Gabrielle_Fa1th/status/746118260815335424;2
+;2016-06-24 01:10;0;0;"sansa stark || game of thrones pic.twitter.com/BZ8zu21gyl";;;;"746118158944174080";https://twitter.com/wckdmaIfoy/status/746118158944174080;0
+;2016-06-24 01:09;0;0;"Sansa Stark just went from that naive girl we used to know to " B**ch I'm The New Khaleesi " - #GOT";;;#GOT;"746117925879316481";https://twitter.com/JordanAbiola/status/746117925879316481;4
+;2016-06-24 01:00;5;0;"I've never been pleased with Sansa Stark but episode 9, she was";;;;"746115776386572289";https://twitter.com/Rayo_A/status/746115776386572289;4

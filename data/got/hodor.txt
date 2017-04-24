@@ -1,0 +1,228 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink;sentiment
+;2016-06-26 01:50;0;1;""hold the door hold the door hold the door...hold door hold door... hodor " pic.twitter.com/iPZ6qsDB2z";;;;"746853152771571712";https://twitter.com/gyIlengod/status/746853152771571712;0
+;2016-06-26 01:48;0;1;"jon snow and hodor have sex in season 7 btw";;;;"746852689418555392";https://twitter.com/aqambar_/status/746852689418555392;0
+;2016-06-26 01:47;0;0;"Is there a Hodor Twitter account that just tweets " Hodor "? Surely right?";;;;"746852417489219584";https://twitter.com/Flemdawg1Hunna/status/746852417489219584;0
+;2016-06-26 01:42;0;1;"" Hodor " - Hodor";;;;"746851168937254912";https://twitter.com/lerar___/status/746851168937254912;0
+;2016-06-26 01:33;0;2;"I can't say Hold the Door in the real world without chuckling a bit anymore. #Hodor";;;#Hodor;"746848725050359809";https://twitter.com/JakesplacePS/status/746848725050359809;0
+;2016-06-26 01:32;0;0;"Wait, hold up. You dated Hodor ? pic.twitter.com/tfkgjBtxsn";;;;"746848643374776320";https://twitter.com/Eric_Halliday/status/746848643374776320;0
+;2016-06-26 01:20;1;2;"Hodor :(";;;;"746845507570401280";https://twitter.com/abake6/status/746845507570401280;5
+;2016-06-26 01:18;0;1;"Hodor is carrying the contraption that Tyrion brought the blueprints for. #GameOfThrones";;;#GameOfThrones;"746845074793836544";https://twitter.com/RandomThrones/status/746845074793836544;0
+;2016-06-26 01:17;0;2;"Would you rather your parents named you Stannis, Hodor or Joffrey jk ur parents sound like virgins";;;;"746844797051244545";https://twitter.com/tylereece/status/746844797051244545;0
+;2016-06-26 01:11;0;1;"Hodor !";;;;"746843257359974400";https://twitter.com/lHodorl/status/746843257359974400;0
+;2016-06-26 01:11;0;1;"Hodor .";;;;"746843256693100544";https://twitter.com/lHodorl/status/746843256693100544;0
+;2016-06-26 01:08;0;1;"HODOR";;;;"746842521054097408";https://twitter.com/_sscullyy/status/746842521054097408;0
+;2016-06-26 01:07;0;0;"#GOTs6 ep2 Bran: Willis you were a boy, you were talking. What happened? Willis: Hodor . me: EVERYTHING IS TERRIBLE";;;#GOTs6;"746842320004354050";https://twitter.com/quieropastel/status/746842320004354050;0
+;2016-06-26 01:06;0;1;"right? I mean... Hodor ... No one would really name their kid this. No one.";;;;"746842079955869697";https://twitter.com/tqlpz/status/746842079955869697;0
+;2016-06-26 01:05;1;0;"Hodor";;;;"746841747775356928";https://twitter.com/anabel_jpg/status/746841747775356928;0
+;2016-06-26 01:05;0;2;"@__SallyForth that is the eternal lesson that #Hodor left us with";;@__SallyForth;#Hodor;"746841704347598849";https://twitter.com/NotJaneDawkins/status/746841704347598849;0
+;2016-06-26 01:00;0;1;"Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor";;;;"746840401978531840";https://twitter.com/hodorclock/status/746840401978531840;0
+;2016-06-26 00:55;0;2;"HODOR";;;;"746839255033384960";https://twitter.com/DrewShirleyShow/status/746839255033384960;0
+;2016-06-26 00:44;0;1;"Hodor";;;;"746836526667964416";https://twitter.com/GradyWaltrip/status/746836526667964416;0
+;2016-06-26 00:41;0;1;"YES! IT'S HODOR lol";;;;"746835837304791041";https://twitter.com/fanizethh/status/746835837304791041;3
+;2016-06-26 00:40;0;1;"Sandor and Hodor doing the festival circuit!";;;;"746835484924612608";https://twitter.com/MintySilver/status/746835484924612608;3
+;2016-06-26 00:31;0;1;"Hold the door..... Hodor . Troll the door..... Trogdor.";;;;"746833342583054336";https://twitter.com/djetter0801/status/746833342583054336;3
+;2016-06-26 00:20;0;0;"hodor as a whitewalker i'm crying";;;;"746830512484847616";https://twitter.com/starkweasleys/status/746830512484847616;5
+;2016-06-26 00:20;0;0;"I find myself just yelling at Bran this whole episode anyway. "What happened to you, Hodor ?" I hate you. #GoT";;;#GoT;"746830350194642944";https://twitter.com/HoGuildenstern/status/746830350194642944;0
+;2016-06-26 00:14;1;2;"Hodor ? Hodor !";;;;"746828867629883393";https://twitter.com/lHodorl/status/746828867629883393;0
+;2016-06-26 00:11;0;1;"Hodor .";;;;"746828292959969280";https://twitter.com/lHodorl/status/746828292959969280;0
+;2016-06-26 00:11;0;1;"Hodor !";;;;"746828286714601472";https://twitter.com/lHodorl/status/746828286714601472;0
+;2016-06-26 00:06;0;1;"Hodor ... pic.twitter.com/TtgwyPyB4H";;;;"746826954528141312";https://twitter.com/sandromergvaz/status/746826954528141312;0
+;2016-06-25 23:58;0;1;"Got to give Hodor the deserved respect.";;;;"746824920139726849";https://twitter.com/goblingee/status/746824920139726849;4
+;2016-06-25 23:55;0;0;"But Pakistan got no HODOR . https:// twitter.com/Uzair_Here/sta tus/746823561478713345 …";;;;"746824239089614848";https://twitter.com/EmirOfMecca/status/746824239089614848;0
+;2016-06-25 23:47;1;27;"Currently *holding* down a stockpile of chips in the Monster Stack. #Hodor #Roar pic.twitter.com/0Dok5UDliR";;;#Hodor #Roar;"746822045623717889";https://twitter.com/AyeGeeJay/status/746822045623717889;0
+;2016-06-25 23:46;0;0;"#hodor #got #nedavimobgd pic.twitter.com/LuETUHQ219";;;#hodor #got #nedavimobgd;"746821844787994628";https://twitter.com/AleksandarIgi/status/746821844787994628;0
+;2016-06-25 23:28;0;3;"HODOR PORTUGAL, HODOR";;;;"746817269485961216";https://twitter.com/jepaspls/status/746817269485961216;0
+;2016-06-25 23:27;0;1;"I would like one! HODOR !!!!!";;;;"746817122366554112";https://twitter.com/MStitchdori/status/746817122366554112;0
+;2016-06-25 23:25;0;1;"Watching soccer and only screaming Hodor is fun";;;;"746816639103025152";https://twitter.com/STeeNYboPP/status/746816639103025152;0
+;2016-06-25 23:19;0;2;"HODOR";;;;"746815145117122560";https://twitter.com/taehri/status/746815145117122560;0
+;2016-06-25 23:11;0;2;"Hodor !";;;;"746813141871362049";https://twitter.com/lHodorl/status/746813141871362049;0
+;2016-06-25 23:11;0;1;"Hodor .";;;;"746813140646641665";https://twitter.com/lHodorl/status/746813140646641665;0
+;2016-06-25 23:10;0;1;"Hodor !";;;;"746812960471924736";https://twitter.com/HodorDawla/status/746812960471924736;0
+;2016-06-25 23:00;0;1;"Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor";;;;"746810205678280704";https://twitter.com/hodorclock/status/746810205678280704;0
+;2016-06-25 22:55;0;1;"HODOR .";;;;"746809018602164227";https://twitter.com/on3nightstan/status/746809018602164227;0
+;2016-06-25 22:49;0;0;"Loving the "Hold the Door" flag at #Glastonbury #GoT #Hodor";;;#Glastonbury #GoT #Hodor;"746807458983780352";https://twitter.com/Mrjamieallan/status/746807458983780352;2
+;2016-06-25 22:48;0;1;"Thanks man R.I.P Hodor";;;;"746807383507165185";https://twitter.com/jack_hanke/status/746807383507165185;5
+;2016-06-25 22:46;0;2;"Someone at #Glasto2016 has a 'hold the door' flag. Brilliant. #Hodor #GameofThrones";;;#Glasto2016 #Hodor #GameofThrones;"746806883374219264";https://twitter.com/carolinebuble/status/746806883374219264;0
+;2016-06-25 22:46;0;1;"hodor #zombi";;;#zombi;"746806862046236672";https://twitter.com/cliffordntm/status/746806862046236672;0
+;2016-06-25 22:45;0;3;"Tom got recognized #FriendliestCreatureInTown #Hodor pic.twitter.com/GIOsHeZKvx";;;#FriendliestCreatureInTown #Hodor;"746806622098427904";https://twitter.com/NesFarm/status/746806622098427904;0
+;2016-06-25 22:38;0;1;"@jack_hanke Happy Birthday! Have a good one R.I.P. Hodor";;@jack_hanke;;"746804759554826240";https://twitter.com/WyattMounts/status/746804759554826240;5
+;2016-06-25 22:31;0;0;"Coral, before HODOR https:// youtu.be/s1WFtQxAeas";;;;"746802960554934273";https://twitter.com/libertarian/status/746802960554934273;0
+;2016-06-25 22:25;0;1;"For hodor ? https:// twitter.com/lethalparamour /status/746801198112485377 …";;;;"746801564812075008";https://twitter.com/BeingWasiZaidi/status/746801564812075008;0
+;2016-06-25 22:12;0;1;"Hodor !";;;;"746798211520659460";https://twitter.com/lHodorl/status/746798211520659460;0
+;2016-06-25 22:04;0;0;"HODOR WAS TOO PURE FOR THE WORLD OF GAME OF THRONES. I'm very upset";;;;"746796250016645120";https://twitter.com/GracieKC98/status/746796250016645120;5
+;2016-06-25 22:00;0;1;"Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor";;;;"746795104573198337";https://twitter.com/hodorclock/status/746795104573198337;0
+;2016-06-25 21:47;0;0;"yes hodor was great as well but you deserve some credits to!";;;;"746791990013100032";https://twitter.com/King_Tommen__/status/746791990013100032;4
+;2016-06-25 21:45;0;1;"Yes, let us not forget what Hodor did for dear Bran. @King_Tommen__";;@King_Tommen__;;"746791509970673664";https://twitter.com/ColdHands_FW/status/746791509970673664;4
+;2016-06-25 21:37;5;10;"Hodor : Hodor !";;;;"746789318967103488";https://twitter.com/Game_0fThrones/status/746789318967103488;0
+;2016-06-25 21:36;0;0;"Hol-d-dor, Hol-d-dor, HOL-D-DOR_HOL-D-DOR, HODOR !!!!! I saw it the night it was on and its still freaking me out!";;;;"746789170559909888";https://twitter.com/ChuckDanas/status/746789170559909888;3
+;2016-06-25 21:21;0;1;"WHAT IF THE REASON RHAEGER TARGARYEN WENT MAD WAS BECAUSE BRAN WENT BACK IN TIME AND FRIED HIS BRAIN LIKE HODOR OH MY GOD";;;;"746785378514898944";https://twitter.com/rdelarge225/status/746785378514898944;3
+;2016-06-25 21:19;0;0;"rip hodor";;;;"746784980353880064";https://twitter.com/lwtking91/status/746784980353880064;5
+;2016-06-25 21:19;2;7;"Hodor ! https:// twitter.com/TyxaiaPernousa /status/694804081920102401 …";;;;"746784813982564352";https://twitter.com/Bill_Advised/status/746784813982564352;0
+;2016-06-25 21:14;0;1;"Hodor ? Hodor !";;;;"746783739380899840";https://twitter.com/lHodorl/status/746783739380899840;0
+;2016-06-25 21:14;0;1;"Hodor !";;;;"746783685060464641";https://twitter.com/lHodorl/status/746783685060464641;0
+;2016-06-25 21:14;0;1;"Hodor .";;;;"746783676869054464";https://twitter.com/lHodorl/status/746783676869054464;0
+;2016-06-25 21:07;0;2;"Everyone else ordering Renner photoshoots me going 'OMG YOU CAN GET A PHOTOSHOOT WITH HODOR AND A DOOR!'";;;;"746781889499897856";https://twitter.com/claire2281/status/746781889499897856;0
+;2016-06-25 21:05;0;3;"HODOR HODOR HODOR euhhh honor* @Honor_FR";;@Honor_FR;;"746781367195869185";https://twitter.com/Jesuisparpaing/status/746781367195869185;0
+;2016-06-25 21:03;1;3;"HODOR brexit human beings bleughh arrrgh";;;;"746780904677384192";https://twitter.com/NatashaMHughes/status/746780904677384192;0
+;2016-06-25 21:00;0;0;"I wonder how the Hodor reveal was dubbed RT @codepo8 : Localisation is hard… pic.twitter.com/y7q6omWwD9";;@codepo8;;"746780032090120196";https://twitter.com/dgrelli/status/746780032090120196;0
+;2016-06-25 21:00;0;1;"Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor";;;;"746780004583940096";https://twitter.com/hodorclock/status/746780004583940096;0
+;2016-06-25 20:54;0;0;"HODOR DIED BECAUSE OF HIM MY HEART IS STILL IN PAIN https:// twitter.com/clarkemiIias/s tatus/746665728967839744 …";;;;"746778583654350848";https://twitter.com/frantasticpill/status/746778583654350848;5
+;2016-06-25 20:53;0;0;"Now that is something. Hodor Targaryen? https:// twitter.com/TVGuide/status /746689510642049025 …";;;;"746778410257518593";https://twitter.com/SeafoamLove/status/746778410257518593;0
+;2016-06-25 20:48;0;3;"Rich coming from someone who thought " Hodor " was a good rebuttal";;;;"746777195943690240";https://twitter.com/Communionism/status/746777195943690240;0
+;2016-06-25 20:46;2;13;"Hodor #GameofThrones pic.twitter.com/ZDb1ACnJDq";;;#GameofThrones;"746776508098842624";https://twitter.com/got_sondagesFR/status/746776508098842624;0
+;2016-06-25 20:42;0;0;"hodor 's past im gonna cry he doesn't deserve all this misery im so sad";;;;"746775634081259520";https://twitter.com/altpopunk/status/746775634081259520;5
+;2016-06-25 20:42;0;2;"mfw a 2 calls an 8 Hodor pic.twitter.com/CmInExkkHg";;;;"746775537058623488";https://twitter.com/Communionism/status/746775537058623488;0
+;2016-06-25 20:36;4;20;"We made a Hodor tribute song! #GameofThrones https://www. youtube.com/watch?v=Na8EZK 9gr8I …";;;#GameofThrones;"746773960403070977";https://twitter.com/iamhelynt/status/746773960403070977;2
+;2016-06-25 20:32;0;1;"Stop arguing with Hodor 's brother.";;;;"746773053032411136";https://twitter.com/Bailamostar/status/746773053032411136;0
+;2016-06-25 20:07;0;2;"Dad: Hey gab.. Me: HODOR . *closes door Me: HODORHODORHODOR!!! Dad: NOOOO! My life is a joke";;;;"746766780635320320";https://twitter.com/Alexisgpinzon/status/746766780635320320;0
+;2016-06-25 20:06;0;3;"Hodor 's death hit me harder than anything else in this show. I'm literally crying right now.";;;;"746766424710864896";https://twitter.com/Ort_le/status/746766424710864896;5
+;2016-06-25 20:04;346;224;"Hodor - *start sobbing* - HOLD THE DOOR - i miss him so much - deserved better pic.twitter.com/VxcriB6fia";;;;"746766026868727808";https://twitter.com/drunkdansmith/status/746766026868727808;5
+;2016-06-25 20:01;1;6;"Pretty sure B and I just met Hodor 's son at the Harris Teeter. @freckledjenni @strickler_sue";;@freckledjenni @strickler_sue;;"746765259931803648";https://twitter.com/taterbug160/status/746765259931803648;0
+;2016-06-25 20:00;0;1;"Hodor Hodor Hodor Hodor Hodor Hodor Hodor";;;;"746764904317784065";https://twitter.com/hodorclock/status/746764904317784065;0
+;2016-06-25 19:50;0;1;"hodor !";;;;"746762537635577857";https://twitter.com/SantiRobles/status/746762537635577857;0
+;2016-06-25 19:43;0;0;"I knew it, Wylis. My heart breaks for you, Hodor . I crie";;;;"746760866717040640";https://twitter.com/niallain93/status/746760866717040640;5
+;2016-06-25 19:38;0;1;"hodor";;;;"746759527110967300";https://twitter.com/FelipeManzoni/status/746759527110967300;0
+;2016-06-25 19:38;0;0;"I didn't really care for Hodor and didn't like that episode. I just care about the baby and Stannis' daughter";;;;"746759499298504704";https://twitter.com/MaazHayat20/status/746759499298504704;0
+;2016-06-25 19:16;0;4;"Bran needs to die in the final war. Those wights didn't kill Hodor .He did.";;;;"746754024054067200";https://twitter.com/Ak4nksha/status/746754024054067200;0
+;2016-06-25 19:13;0;0;"Hodor 's death hurt more than any relative's. Horrible things happen to good people and no one does anything about it";;;;"746753235273326592";https://twitter.com/Ak4nksha/status/746753235273326592;5
+;2016-06-25 19:07;0;1;"#rager #saturday // lol, Hodor announces new Rave Of Thrones tour in Australia http:// ow.ly/7fqO501Lf96";;;#rager #saturday;"746751767497564160";https://twitter.com/rcultureteam/status/746751767497564160;0
+;2016-06-25 18:52;0;4;"Big boy Hodor pic.twitter.com/vTPLRdmIZI";;;;"746747878278828033";https://twitter.com/TheOnionMaid/status/746747878278828033;4
+;2016-06-25 18:51;0;8;"Here is huge soppy Hodor (top) and little one eyed sweetie Nala (bottom) pic.twitter.com/1fs2IRY452";;;;"746747707545485312";https://twitter.com/TheOnionMaid/status/746747707545485312;0
+;2016-06-25 18:32;0;0;"Hodor is hosting a rave on August 12 in San Francisco. Who's trying unce unce unce the door?";;;;"746742962281844736";https://twitter.com/partylikeaninja/status/746742962281844736;0
+;2016-06-25 18:27;0;0;"12 Game of Thrones Memes That Will Make You Love Hodor Even More #hodor https:// dragplus.com/post/id/364328 34 …";;;#hodor;"746741518669590533";https://twitter.com/popculture_agen/status/746741518669590533;0
+;2016-06-25 18:22;0;0;"“You were right to defend Hodor , but you should never have been there.”";;;;"746740470508851200";https://twitter.com/ASOIAFReadThru/status/746740470508851200;0
+;2016-06-25 18:20;1;1;"Maester Luwin held the door open, and Bran hugged Hodor ’s neck and ducked as they went through.";;;;"746739775089029120";https://twitter.com/ASOIAFReadThru/status/746739775089029120;0
+;2016-06-25 18:17;0;2;"I think maybe Hodor would lose more weight if beautiful one eyed doe Nala didn't climb up and get his food for him";;;;"746739033187942401";https://twitter.com/TheOnionMaid/status/746739033187942401;0
+;2016-06-25 18:16;2;3;"Hold the Dessert order Hold dessert order Hold essert order Holdessrt odr Holdesrtodr Hodesror Hodror Hodor";;;;"746738875888975872";https://twitter.com/Captain_Revo/status/746738875888975872;0
+;2016-06-25 18:15;0;1;"I could just Hodor you on my back if I were there :P";;;;"746738513463361536";https://twitter.com/ShadowPraxis/status/746738513463361536;0
+;2016-06-25 18:14;16;8;"#ifGOTwasinHindi Hodor would say "abba dabba jabba" instead of " Hodor ".";;;#ifGOTwasinHindi;"746738258512601088";https://twitter.com/pawanInamdar147/status/746738258512601088;0
+;2016-06-25 18:11;0;0;"Hodor";;;;"746737606331863040";https://twitter.com/rociogalia_/status/746737606331863040;0
+;2016-06-25 18:11;0;0;""Hold the ball" - Pieter Steph " Hodor " Du Toit";;;;"746737474005835776";https://twitter.com/joeblackzw/status/746737474005835776;0
+;2016-06-25 18:07;0;0;"photo";;;;"746736680003059712";https://twitter.com/Sir_Hodor/status/746736680003059712;0
+;2016-06-25 18:00;0;1;"Hodor Hodor Hodor Hodor Hodor";;;;"746734707182833664";https://twitter.com/hodorclock/status/746734707182833664;0
+;2016-06-25 17:57;0;1;"Hodor";;;;"746734036257742848";https://twitter.com/Key_furrrr/status/746734036257742848;0
+;2016-06-25 17:55;0;1;"same goes for Hodor in GoT/aSoIaF, just the other way around. If the translators knew, everyone would know.";;;;"746733468374175744";https://twitter.com/tarya/status/746733468374175744;0
+;2016-06-25 17:54;0;0;"Little Walder spurred his horse closer, giving Hodor a bump that pushed him backward. “What will you do if I don’t?”";;;;"746733313252036608";https://twitter.com/ASOIAFReadThru/status/746733313252036608;0
+;2016-06-25 17:51;0;1;"Hodor";;;;"746732616745951232";https://twitter.com/javiquo_gdoors/status/746732616745951232;0
+;2016-06-25 17:47;5;2;"Most played song on Hodor 's playlist - Darwazaa khula chor aayi, neend k maare. #ifGOTwasinHindi";;;#ifGOTwasinHindi;"746731548808876033";https://twitter.com/pranayom/status/746731548808876033;0
+;2016-06-25 17:46;4;4;"#ifGOTwasinHindi Hodor 's name would be Droko - Darwaza Roko Darwaza Roko Darwaroko Darroko Droko";;;#ifGOTwasinHindi;"746731290653790208";https://twitter.com/YogeshSaini292/status/746731290653790208;0
+;2016-06-25 17:30;0;1;"Hush Hodor ! No more Hodoring! #GameOfThrones";;;#GameOfThrones;"746727172908322816";https://twitter.com/BarryPi/status/746727172908322816;0
+;2016-06-25 17:19;0;1;"GOT #Hodor very sad story. #GameofThrones pic.twitter.com/8tNDqo30oC";;;#Hodor #GameofThrones;"746724530534572039";https://twitter.com/matchr/status/746724530534572039;5
+;2016-06-25 17:19;0;1;"thank you hodor !";;;;"746724428931727361";https://twitter.com/Adam_Nano25/status/746724428931727361;0
+;2016-06-25 17:13;0;0;"Hold the door Hold door Holddor Hodor Hodor #GoTSeason6";;;#GoTSeason6;"746722951349821441";https://twitter.com/katybadgal/status/746722951349821441;0
+;2016-06-25 17:00;0;1;"Hodor Hodor Hodor Hodor";;;;"746719607621324801";https://twitter.com/hodorclock/status/746719607621324801;0
+;2016-06-25 16:29;1;1;"hodor hodor derp derp derp hodor hodor";;;;"746711957726724096";https://twitter.com/NeilSpiels/status/746711957726724096;0
+;2016-06-25 16:26;0;0;"foooot*";;;;"746711219357220866";https://twitter.com/Sir_Hodor/status/746711219357220866;0
+;2016-06-25 16:19;0;0;"Time Travel Philosophy and The HoDor Paradox https:// wp.me/p7sBYx-4d #entertainment";;;#entertainment;"746709458961694724";https://twitter.com/thephstudent/status/746709458961694724;0
+;2016-06-25 16:09;0;1;"035 / 100 Hodor . Hodor . Hodor . 036 / 100 Three Feet Under #100daysofthrees pic.twitter.com/0WmwgDjRxK";;;#100daysofthrees;"746706983705677824";https://twitter.com/gscottolson/status/746706983705677824;0
+;2016-06-25 16:07;0;0;"Hey Hodor , come and play the many games of Game of Thrones http:// goo.gl/R4liyu via @aussiemoose";;@aussiemoose;;"746706279884787712";https://twitter.com/mrszoomby/status/746706279884787712;0
+;2016-06-25 16:06;1;2;"Dear elevator maker, you had 1 job... #hodor http:// ift.tt/28T0xwg pic.twitter.com/mnn8hyE4YG";;;#hodor;"746706152071790592";https://twitter.com/moonsyi/status/746706152071790592;0
+;2016-06-25 16:00;0;0;"WunWun... Hodor pic.twitter.com/wfYfN6J1ez";;;;"746704554360602625";https://twitter.com/IKCgrace/status/746704554360602625;0
+;2016-06-25 15:46;9;12;"HODOR •deserves to join this thread •so kind and helpful •saved bran •hold the door •deserved better pic.twitter.com/4dH1Uo0m7H";;;;"746701123894018053";https://twitter.com/jogwarts/status/746701123894018053;4
+;2016-06-25 15:38;0;3;"When HODOR died https:// twitter.com/stephynicolas/ status/744859566387531776 …";;;;"746699027979214848";https://twitter.com/thejuliedagher/status/746699027979214848;0
+;2016-06-25 15:17;0;0;"They did Hodor filthy son. I don't respeck it.";;;;"746693688374472705";https://twitter.com/RichForbes/status/746693688374472705;0
+;2016-06-25 15:02;0;0;"King Hodor by JamesBousema on deviantART http:// fb.me/HCIpmPO0";;;;"746689921620946944";https://twitter.com/AllKhaili/status/746689921620946944;0
+;2016-06-25 14:59;28;99;""Brexit" sounds like Hodor 's brother on Game of Thrones.";;;;"746689225312067584";https://twitter.com/Slashleen/status/746689225312067584;0
+;2016-06-25 14:48;0;0;"If I were a Game of Thrones character, I'd be HODOR http://theoatmeal.com/quiz/got_chara cter … via @oatmeal";;@oatmeal;;"746686408857948160";https://twitter.com/Diam0ndM1ner/status/746686408857948160;4
+;2016-06-25 14:45;0;1;"Crying historically for Hodor #GameofThrones";;;#GameofThrones;"746685865188007936";https://twitter.com/SenziMsBlair/status/746685865188007936;5
+;2016-06-25 14:33;0;0;"Hodor";;;;"746682825294872576";https://twitter.com/CarooCeccatto/status/746682825294872576;0
+;2016-06-25 14:25;0;0;"Told one of my workers to close the door and I reminded myself of that episode with Hodor on game of thrones";;;;"746680700733165568";https://twitter.com/Frannykinzz/status/746680700733165568;0
+;2016-06-25 14:24;1;1;"#HODOR https:// twitter.com/FourFourTwoSG/ status/746674398493433856 …";;;#HODOR;"746680482218184705";https://twitter.com/1Obefiend/status/746680482218184705;0
+;2016-06-25 14:08;0;0;"I call him hodor he legit reminds me of him. And yest I saw him holding a door as well smh";;;;"746676408500498432";https://twitter.com/HashtagAman/status/746676408500498432;0
+;2016-06-25 14:06;1;2;"Don't forget Mace + Alerie = Willas = Hodor";;;;"746675886582169600";https://twitter.com/hyrkoon/status/746675886582169600;0
+;2016-06-25 14:02;0;0;"Kristian “ Hodor ” Nairn From ‘Game Of Thrones’ Set To DJ A Concert In Dallas http:// ow.ly/z4xJ501KRB6";;;;"746674963239833600";https://twitter.com/GetLiftedCsltg/status/746674963239833600;0
+;2016-06-25 13:30;1;1;"HODOR";;;;"746666782312775680";https://twitter.com/Uvejeje/status/746666782312775680;0
+;2016-06-25 13:00;0;1;"Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor";;;;"746659206938435585";https://twitter.com/hodorclock/status/746659206938435585;0
+;2016-06-25 12:47;0;0;""That's a car for Hodor , right?" pic.twitter.com/Gke6HKo0GV";;;;"746656046660345856";https://twitter.com/scrimnodkirk/status/746656046660345856;0
+;2016-06-25 12:39;0;0;""Car to pick up at the airport? Name of Hodor ? No problem"";;;;"746654092081135617";https://twitter.com/scrimnodkirk/status/746654092081135617;0
+;2016-06-25 12:28;2;2;"Hahahaha no way is Hodor a DJ pic.twitter.com/jQQTCZQ6DF";;;;"746651158576496640";https://twitter.com/ryparkerr/status/746651158576496640;0
+;2016-06-25 12:12;0;0;"A 'Game of Thrones' fan solved the mystery of Hodor 's name way back in 2008 http:// ti.me/20ss2l2";;;;"746647227628666880";https://twitter.com/806alshmrane_fd/status/746647227628666880;0
+;2016-06-25 12:00;0;1;"Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor";;;;"746644110421925888";https://twitter.com/hodorclock/status/746644110421925888;0
+;2016-06-25 11:16;0;0;"Hodor y Wun Wun :-( | https://www. instagram.com/p/BG7T4FvuQBA/ ?r=30910266 …";;;;"746633123677478913";https://twitter.com/jolivaro/status/746633123677478913;5
+;2016-06-25 11:06;1;3;"HODOR";;;;"746630613076221952";https://twitter.com/DelfinaGaspari/status/746630613076221952;0
+;2016-06-25 10:53;0;1;"Hi summer or hodor ? pic.twitter.com/GCujL5RkMx";;;;"746627468082065409";https://twitter.com/janinaceae/status/746627468082065409;0
+;2016-06-25 10:52;0;0;"When u read the books and u know the answers.... #Hodor #HoldTheDoor pic.twitter.com/8RmXPiqnsk";;;#Hodor #HoldTheDoor;"746627095481229312";https://twitter.com/NischayKalra/status/746627095481229312;0
+;2016-06-25 10:31;0;6;"A HODOR ACC DMed ME IM SCREAMING pic.twitter.com/LUTc4VYjXk";;;;"746621808904835072";https://twitter.com/OMGPERCY/status/746621808904835072;3
+;2016-06-25 10:27;0;1;"True Hodor ! #Hodor #HoldTheDoor #GOT #SüperGazi pic.twitter.com/DUK35Dc4fH";;;#Hodor #HoldTheDoor #GOT #S;"746620744382156800";https://twitter.com/tendurdiotadam/status/746620744382156800;0
+;2016-06-25 10:09;0;1;"hodor";;;;"746616279356833792";https://twitter.com/Husotoro/status/746616279356833792;0
+;2016-06-25 10:00;0;1;"Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor";;;;"746613911689043968";https://twitter.com/hodorclock/status/746613911689043968;0
+;2016-06-25 09:48;0;1;"I'm trying to #Brexit can you #Hodor please";;;#Brexit #Hodor;"746611037621805057";https://twitter.com/ZachAdairChair/status/746611037621805057;0
+;2016-06-25 09:36;0;2;"you can barely get a finger in the handle loop. What are you, that guy who plays Hodor";;;;"746608015990657024";https://twitter.com/fender_splendor/status/746608015990657024;0
+;2016-06-25 09:34;0;1;""Why does Hodor only say Hodor ??" Me:";;;;"746607556517236736";https://twitter.com/mariimargarita/status/746607556517236736;0
+;2016-06-25 09:26;0;0;"Bran wargs into Hodor for the first time and I'm over here like pic.twitter.com/QnJ0JLbutI";;;;"746605547605078016";https://twitter.com/babeweiser/status/746605547605078016;0
+;2016-06-25 09:03;0;1;"@BenKissel Hodor ! #RedEye #GameofThrones";;@BenKissel;#RedEye #GameofThrones;"746599687705137152";https://twitter.com/TheRealFixNow/status/746599687705137152;0
+;2016-06-25 08:40;0;2;"Paying my respects to Hodor pic.twitter.com/lPGL7w5IuI";;;;"746593870025211904";https://twitter.com/NotChuckStein/status/746593870025211904;4
+;2016-06-25 08:37;0;1;"A riddle for the ages: could Hodor hold the door if Wun Wun was pounding on it? #GameOfThrones";;;#GameOfThrones;"746593195832684550";https://twitter.com/BeetisBrown/status/746593195832684550;0
+;2016-06-25 08:27;1;1;"@nikkisilvestre Are Hodor 's legs tired? Because he's been carrying you through my mind all day";;@nikkisilvestre;;"746590702037938176";https://twitter.com/mxriela/status/746590702037938176;0
+;2016-06-25 08:20;0;0;"Hodor & Wun Wun pic.twitter.com/OJKQRJGmqE";;;;"746588867667566592";https://twitter.com/Weskovic/status/746588867667566592;2
+;2016-06-25 08:18;0;0;"Drunk people are legit SCREAMING "Hold the Door Hodor ". Please. Go. Home.";;;;"746588363134763008";https://twitter.com/lexiiibaker/status/746588363134763008;0
+;2016-06-25 07:59;0;1;"Hodor . The spinoff. Hodor travels in time holding the door open for historical figures.";;;;"746583497389768704";https://twitter.com/Drdonelittle/status/746583497389768704;0
+;2016-06-25 07:58;0;1;"// Hodor . https:// twitter.com/foremostmortal /status/746583050734215168 …";;;;"746583230585790465";https://twitter.com/ForUncleBen/status/746583230585790465;0
+;2016-06-25 07:53;0;1;"Chapter 13: Clear the cache Hodor , clear the cache!";;;;"746581953789329408";https://twitter.com/tw2113/status/746581953789329408;0
+;2016-06-25 07:31;0;3;"Hodor :(";;;;"746576636536029184";https://twitter.com/EdsonAdrianu/status/746576636536029184;5
+;2016-06-25 07:25;0;0;"and I like Hodor ...";;;;"746575104147132416";https://twitter.com/Tehsupercow/status/746575104147132416;0
+;2016-06-25 07:00;0;1;"Hodor Hodor Hodor Hodor Hodor Hodor";;;;"746568611582578690";https://twitter.com/hodorclock/status/746568611582578690;0
+;2016-06-25 06:54;0;4;"Hodor dying has me like pic.twitter.com/d1RaPWNQHL";;;;"746567181580722176";https://twitter.com/KayliSkinner/status/746567181580722176;0
+;2016-06-25 06:42;0;2;"Hodor";;;;"746564249464541184";https://twitter.com/kkkpivara/status/746564249464541184;0
+;2016-06-25 06:27;0;1;"Hodor ...";;;;"746560316905947136";https://twitter.com/stone2rush/status/746560316905947136;0
+;2016-06-25 06:23;0;0;"HODOR WAS SO BRAVE HE NEVER STOPPED HOLDING THE DOOR EVEN WHEN THE WIGHTS STARTED TO ATTACK HIM . MY HIJO HERMOSO";;;;"746559421531176961";https://twitter.com/karasthraces/status/746559421531176961;4
+;2016-06-25 06:14;0;5;"HODOR RISE https:// twitter.com/ASOIAFReadThru /status/746553488268738560 …";;;;"746557246427959296";https://twitter.com/pansexuaIdany/status/746557246427959296;0
+;2016-06-25 06:14;1;1;"#Poussey is the new #Hodor . @OITNB @GameOfThrones";;@OITNB @GameOfThrones;#Poussey #Hodor;"746557166589353984";https://twitter.com/MVincent0810/status/746557166589353984;0
+;2016-06-25 06:08;3;6;"Bran Stark Meera Reed Hodor Jojen Reed #Gameofthrones pic.twitter.com/eqtK2EnIjj";;;#Gameofthrones;"746555759123521536";https://twitter.com/GepeFtFranV/status/746555759123521536;0
+;2016-06-25 06:08;0;2;"My heart is breaking over Game of Thrones. Hodor , I love you.";;;;"746555691721101312";https://twitter.com/Kimb3rlyAnn_/status/746555691721101312;5
+;2016-06-25 06:06;0;1;"He rested his hands on Hodor ’s shoulders as they descended the winding stairs.";;;;"746555208466063360";https://twitter.com/ASOIAFReadThru/status/746555208466063360;0
+;2016-06-25 06:05;0;0;"There's this fat guy at work who looks likes Hodor I swear";;;;"746554944308781056";https://twitter.com/HashtagAman/status/746554944308781056;0
+;2016-06-25 06:00;0;0;"#DrunkGoTThoughts Does Hodor fart while taking the elevator?";;;#DrunkGoTThoughts;"746553672088195072";https://twitter.com/AnExiledBear/status/746553672088195072;0
+;2016-06-25 05:59;4;4;"“ Hodor ,” Hodor said again, rising.";;;;"746553488268738560";https://twitter.com/ASOIAFReadThru/status/746553488268738560;0
+;2016-06-25 05:59;0;0;"I just watched the Hodor scene again and I started tearing up again";;;;"746553304650375168";https://twitter.com/devvmeister/status/746553304650375168;5
+;2016-06-25 05:51;1;5;"Should've named my cat hodor";;;;"746551440861200384";https://twitter.com/nazrajuana/status/746551440861200384;2
+;2016-06-25 05:31;4;4;"Hodor : Hodor !";;;;"746546307834077185";https://twitter.com/allgottweets/status/746546307834077185;0
+;2016-06-25 05:09;0;1;"Hodor";;;;"746540836041723904";https://twitter.com/washedtalk/status/746540836041723904;0
+;2016-06-25 05:00;0;1;"Hodor Hodor Hodor Hodor";;;;"746538413273288704";https://twitter.com/hodorclock/status/746538413273288704;0
+;2016-06-25 04:59;0;5;"Crying hysterically because time is a flat circle and Hodor held the door";;;;"746538368792563714";https://twitter.com/smileycoughman/status/746538368792563714;5
+;2016-06-25 04:59;1;0;"She needs to be blocked. No one. No one. Laughs at Hodor https:// twitter.com/kay_swole/stat us/746531123103145984 …";;;;"746538294436040706";https://twitter.com/_PRiMAD0NNA_/status/746538294436040706;2
+;2016-06-25 04:57;0;2;"Hodor is the only redeemable character in Game of Thrones. And he had the most depressing life. #HoldTheDoor";;;#HoldTheDoor;"746537763403505665";https://twitter.com/mechanicamarkey/status/746537763403505665;2
+;2016-06-25 04:55;0;0;"Hodor , hodor , hodor ... #GoT http:// fb.me/53IdF85kW";;;#GoT;"746537300822212612";https://twitter.com/Xtremo_/status/746537300822212612;0
+;2016-06-25 04:55;0;1;"HODOR";;;;"746537243318304770";https://twitter.com/daviniaweasley/status/746537243318304770;0
+;2016-06-25 04:31;0;1;"Told her about the history behind " Hodor = Hold the door" and she laughed. Unforgivable PSA This is not ok";;;;"746531123103145984";https://twitter.com/KaySwole/status/746531123103145984;2
+;2016-06-25 04:26;0;1;"HODOR HODOR HODOR ... wait... wrong show...";;;;"746529945237610496";https://twitter.com/AKWingsFan/status/746529945237610496;0
+;2016-06-25 04:23;1;1;"RIP Hodor";;;;"746529273922658304";https://twitter.com/KamrulJamal/status/746529273922658304;5
+;2016-06-25 04:21;1;0;"o Hodor";;;;"746528834942533633";https://twitter.com/DanielF606/status/746528834942533633;0
+;2016-06-25 04:08;0;1;"HODOR HODOR HODOR HODOR HODOR HODOR HODOR HODOR HODOR HODOR HOOOOOOOODOR HODOR HOOOODOR HODOR HOOOOO";;;;"746525556859150336";https://twitter.com/OhKayser/status/746525556859150336;0
+;2016-06-25 03:41;0;1;"I don't think they'll reach for Moverare. Could possibly trade down and still get him.";;;;"746518543026388992";https://twitter.com/Law_and_Hodor/status/746518543026388992;0
+;2016-06-25 03:39;0;3;"HODOR :( I'm SAD";;;;"746518262314303489";https://twitter.com/shaynasolo/status/746518262314303489;5
+;2016-06-25 03:34;0;2;"I think I can do a decent job as Hodor . There's a lot of dialogue to memorize it could get difficult";;;;"746516957109882880";https://twitter.com/NickyCampz/status/746516957109882880;0
+;2016-06-25 03:32;1;1;"not all heroes wear capes some hold doors and others break them down RIP wun wun and hodor";;;;"746516353318817793";https://twitter.com/lisacapriola/status/746516353318817793;4
+;2016-06-25 03:31;0;1;"Lmfaooo u are hodor or wun wun";;;;"746516246187884546";https://twitter.com/vikaplan/status/746516246187884546;0
+;2016-06-25 03:24;0;1;"I brought it all to a game a couple weeks ago and trusted Chairman Dan to get it to you, did Hodor not deliver?";;;;"746514425872449537";https://twitter.com/DanielMick/status/746514425872449537;0
+;2016-06-25 03:17;0;2;"Fezzik = Charm of #Hodor + Wordsmithiness of @Lin_Manuel #scrapbooksleepoverTPB";;@Lin_Manuel;#Hodor #scrapbooksleepoverTPB;"746512576872349696";https://twitter.com/rukristin/status/746512576872349696;0
+;2016-06-25 03:00;0;1;"Hodor Hodor";;;;"746508212803862528";https://twitter.com/hodorclock/status/746508212803862528;0
+;2016-06-25 02:37;0;1;"Hold the door, Hodor";;;;"746502504611876865";https://twitter.com/heey_dunga/status/746502504611876865;0
+;2016-06-25 02:24;0;9;"Izašla baba ispred kuće da spava i ja joj slučajno vrata zaključah evo je na vrata HODOR HODOR HODOR";;;;"746499159583252480";https://twitter.com/bianconero__/status/746499159583252480;0
+;2016-06-25 01:59;0;1;"definitely not my favorite maps. Because..... HODOR ! Lol";;;;"746493016727126017";https://twitter.com/IAMattman/status/746493016727126017;0
+;2016-06-25 01:59;0;0;"Well at least I can say that " Hodor " DJ'ed at one of the events I went to. https://www. instagram.com/p/BHDniJHA6w4/";;;;"746492903208423424";https://twitter.com/EvitaBeee/status/746492903208423424;0
+;2016-06-25 01:52;0;0;"Is Brandon this " Hodor " guy? #GOT";;;#GOT;"746491182348374016";https://twitter.com/edwina_dimpz/status/746491182348374016;0
+;2016-06-25 01:51;0;1;"I love how Marlins players have been calling Justin Bour #Hodor #GameofThrones";;;#Hodor #GameofThrones;"746490962331860992";https://twitter.com/DavidDwork/status/746490962331860992;0
+;2016-06-25 01:51;2;3;"" hodor " - hodor";;;;"746490857415651328";https://twitter.com/integralblanca/status/746490857415651328;0
+;2016-06-25 01:48;0;0;"Hodor :(";;;;"746490161094098944";https://twitter.com/Lecolequin/status/746490161094098944;5
+;2016-06-25 01:44;1;2;""If Meera said close the gate, would Hodor been called colgate?" #GameofThrones";;;#GameofThrones;"746489195527540736";https://twitter.com/DaisetsuX/status/746489195527540736;0
+;2016-06-25 01:38;0;1;"RIP to both #wunwun #Hodor https:// twitter.com/msausretrogame r/status/746334855345016835 …";;;#wunwun #Hodor;"746487576647741441";https://twitter.com/MozyMozquito/status/746487576647741441;0
+;2016-06-25 01:31;1;0;"hodor https:// twitter.com/gamofthoners/s tatus/746485753983696896 …";;;;"746486032024080384";https://twitter.com/xdebcareyx/status/746486032024080384;0
+;2016-06-25 01:26;1;1;"Is Hodor a lit DJ?";;;;"746484744095862784";https://twitter.com/jsteeeez/status/746484744095862784;0
+;2016-06-25 01:25;0;5;"Hodor";;;;"746484341153234944";https://twitter.com/thekenyeung/status/746484341153234944;0
+;2016-06-25 01:19;0;2;"Someone who works at this restaurant handled Hodor pretty rough pic.twitter.com/5obmDTAcqa";;;;"746482872828182529";https://twitter.com/melberes/status/746482872828182529;0
+;2016-06-25 01:12;0;2;"HODOR HODOR";;;;"746481127389601792";https://twitter.com/esmerayaksu/status/746481127389601792;0
+;2016-06-25 01:08;0;1;"Damn Hodor";;;;"746480101903183872";https://twitter.com/WAKEUPMRWESS/status/746480101903183872;0
+;2016-06-25 01:00;0;1;"Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor Hodor";;;;"746478012884000768";https://twitter.com/hodorclock/status/746478012884000768;0
+;2016-06-25 00:57;1;1;"nudoor hodor nudoor hold the door hold the door hold the door hold the door nur hold the fucking door nur hold the fucking door";;;;"746477496971964417";https://twitter.com/br0dyy/status/746477496971964417;0
+;2016-06-25 00:52;0;1;"Hodor";;;;"746476009965367296";https://twitter.com/sorayacst/status/746476009965367296;0
+;2016-06-25 00:41;0;2;"Hodor #GameofThrones pic.twitter.com/cSSVPsot3e";;;#GameofThrones;"746473304693825536";https://twitter.com/Ragnar_y_Odin/status/746473304693825536;0
+;2016-06-25 00:40;0;1;""Hold the door! Hold the door! Hoothedoor! Hodor ! Hodor !" Jorge Luis Borges";;;;"746473173063962624";https://twitter.com/soyesvenson/status/746473173063962624;0
+;2016-06-25 00:36;0;0;"I don't think I ever went there. It was always Suwannee or Pollo Tropical for me.";;;;"746472108163743744";https://twitter.com/davidraider88/status/746472108163743744;0
+;2016-06-25 00:31;0;3;"Hodor";;;;"746470727616966656";https://twitter.com/WylisHodor/status/746470727616966656;0
+;2016-06-25 00:28;0;3;"You guys are the Hodor and Bran of EDC https:// twitter.com/benyupoker/sta tus/746442020126756864 …";;;;"746470175164141568";https://twitter.com/nhgg/status/746470175164141568;0
+;2016-06-25 00:17;0;2;"oh shit, yeah Hodor 's definitely tops it... Slightly.";;;;"746467269887279104";https://twitter.com/WightsKing/status/746467269887279104;4
+;2016-06-25 00:16;0;4;"Mine is Maester Luwin's, then Hodor 's, then probably this one... "You know nothing, Jon Snow", she sighed, dying.";;;;"746467063133257728";https://twitter.com/wingdwoIf/status/746467063133257728;5
+;2016-06-25 00:06;0;1;"Game of thrones catch up is just killing me #Hodor";;;#Hodor;"746464573532807172";https://twitter.com/HarrietPoole/status/746464573532807172;5
+;2016-06-25 00:02;0;1;"Hodor . https:// twitter.com/Arianne_Mart/s tatus/746449013826785281 …";;;;"746463495307300864";https://twitter.com/HodorEnfurece/status/746463495307300864;0
+;2016-06-24 23:48;0;1;"Wilson Phillips had that song " Hodor for one more day..." #GameofThronesSongs";;;#GameofThronesSongs;"746460094276243461";https://twitter.com/RamblinWreck813/status/746460094276243461;0

@@ -1,0 +1,160 @@
+username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink;sentiment
+;2016-06-26 00:57;0;1;"I'm still surprised Jon didn't ask Melisandre to whip up some blood magic on Ramsey's ass! #GameofThrones";;;#GameofThrones;"746839789559701504";https://twitter.com/kaorinite85/status/746839789559701504;0
+;2016-06-26 00:43;0;1;"if something bad happens to melisandre tomorrow i swear im ready to fight. protect her @caricevhouten";;@caricevhouten;;"746836364826652672";https://twitter.com/alexvdanvers/status/746836364826652672;3
+;2016-06-26 00:43;1;1;"my guess.....Priestess Melisandre #GoT #redwoman";;;#GoT #redwoman;"746836209591214080";https://twitter.com/MikeG_0710/status/746836209591214080;0
+;2016-06-26 00:23;0;1;"I want to cosplay Melisandre so bad.";;;;"746831303337615360";https://twitter.com/emyxlee/status/746831303337615360;2
+;2016-06-25 23:42;64;47;"Melisandre 's costume details. pic.twitter.com/w8N0yLCvoK";;;;"746820853959172096";https://twitter.com/drunkdansmith/status/746820853959172096;0
+;2016-06-25 23:39;0;3;"I TRIED DYING MY HAIR PINK AND NOW I'M MELISANDRE FROM GAME OF THRONES";;;;"746820047922991104";https://twitter.com/whiteseel/status/746820047922991104;2
+;2016-06-25 23:09;0;0;"Davos Realizing Shireen's Fate On 'Game Of Thrones' Could Mean Trouble For Melisandre - Bustle http:// dlvr.it/LfRKbj";;;;"746812494002298880";https://twitter.com/Globaltradetime/status/746812494002298880;0
+;2016-06-25 23:06;1;7;"Šta će se desiti ako mi neko vidi u telefonu gif Melisandre i njenih sisa";;;;"746811784993120257";https://twitter.com/nancydrevv/status/746811784993120257;0
+;2016-06-25 22:55;0;1;"melisandre , tommen, Margaery, high sparrow = finito";;;;"746809180426665984";https://twitter.com/HossDailies/status/746809180426665984;0
+;2016-06-25 22:54;0;0;"I'm convinced all old white women look like Melisandre in that one scene she revealed her true self. yuck";;;;"746808869532340225";https://twitter.com/WAKEUPMRWESS/status/746808869532340225;0
+;2016-06-25 22:11;0;1;"¿ Melisandre ?";;;;"746797914110959616";https://twitter.com/coquitos_/status/746797914110959616;0
+;2016-06-25 21:56;2;0;"brienne ou melisandre ?";;;;"746794232480931841";https://twitter.com/dragonsmvther/status/746794232480931841;0
+;2016-06-25 21:00;0;1;"Ha! #GameofThrones business cards #Melisandre #LifeCoach pic.twitter.com/LtCix36dEc";;;#GameofThrones #Melisandre #LifeCoach;"746780146150019072";https://twitter.com/abenawra/status/746780146150019072;0
+;2016-06-25 20:49;0;2;"he'll kill Melisandre for what he did to the little princess, if not Davos will kill her";;;;"746777377179578369";https://twitter.com/josh_taylor1999/status/746777377179578369;0
+;2016-06-25 20:42;1;1;"* Melisandre mode on* burn them all!";;;;"746775626602930178";https://twitter.com/Satoki_X/status/746775626602930178;3
+;2016-06-25 20:31;0;2;"Jon parents reveal, Wall fall down, Melisandre executed by Jon and his sword sets on fire, Cersei burns every1";;;;"746772716045361152";https://twitter.com/josh_taylor1999/status/746772716045361152;0
+;2016-06-25 20:22;0;1;"Melisandre : "What did you learn on the other side? What did you see?" Jon Snow: "Rosebud was... the name of his sled..."";;;;"746770628267511808";https://twitter.com/Kaon_Bu/status/746770628267511808;0
+;2016-06-25 19:40;0;1;"walder frey & melisandre";;;;"746760054200799232";https://twitter.com/hourcruxe/status/746760054200799232;0
+;2016-06-25 19:18;5;37;"Melisandre , if you're listening, please bring back the Giant!";;;;"746754523591434240";https://twitter.com/laparisa/status/746754523591434240;0
+;2016-06-25 18:50;0;0;"Please. Melisandre , Loras, and Cersei. Stay alive. PLEASE. #GameOfThrones";;;#GameOfThrones;"746747336815058944";https://twitter.com/_ClaytonA_/status/746747336815058944;3
+;2016-06-25 18:44;213;144;"Melisandre - brought jon back but what about rickon - beautiful woman - underrated pic.twitter.com/6Z227vTFpr";;;;"746745948903211009";https://twitter.com/drunkdansmith/status/746745948903211009;0
+;2016-06-25 18:12;3;46;"Melisandre might don't make it tonight, especially since Jon isn't too keen on anyone's God these days. #GameofThrones";;;#GameofThrones;"746737727035576320";https://twitter.com/deray/status/746737727035576320;0
+;2016-06-25 17:39;0;2;"Cersei: *burns King's Landing* Melisandre : #GameOfThrones";;;#GameOfThrones;"746729566589296640";https://twitter.com/Lanisterka/status/746729566589296640;0
+;2016-06-25 17:37;0;0;"Didn't Azor stab the love of his life in the heart.. I doubt Melisandre is Nissa Nissa pic.twitter.com/oCGOEUDGx6";;;;"746729068545064964";https://twitter.com/targayran/status/746729068545064964;0
+;2016-06-25 17:32;0;1;"Omg??? Melisandre what hev u done to Jon pls gurl #lrt";;;#lrt;"746727691278229504";https://twitter.com/EstelleV_/status/746727691278229504;3
+;2016-06-25 17:25;0;0;"I liked a @YouTube video http:// youtu.be/-5C6kG57J7Q?a Melisandre at a Baby Shower - Late Night with Seth Meyers";;@YouTube;;"746726039498399744";https://twitter.com/alphytodia/status/746726039498399744;0
+;2016-06-25 17:21;0;1;"The last time Ayra saw him, he was being talking away by Melisandre . She mostly likely thinks he's dead";;;;"746725029942013953";https://twitter.com/YeahThisIsHess/status/746725029942013953;0
+;2016-06-25 15:02;0;1;"actually, this is jst me telling everyone na i have a boyfriend HAHAHAH";;;;"746689974905364480";https://twitter.com/melisandre_aa/status/746689974905364480;0
+;2016-06-25 13:59;0;1;"I can't take this. Can Melisandre from GOT resurrect pousse please??????";;;;"746674138916462593";https://twitter.com/yemiwho__/status/746674138916462593;0
+;2016-06-25 12:31;0;2;"Too many big bodies! Gotta have some range or magic/healers (like Melisandre to bring you back from dead)";;;;"746651909856071681";https://twitter.com/capulet4/status/746651909856071681;0
+;2016-06-25 12:20;0;3;"By the way, has anyone tried to reach Melisandre yet? #Brexit";;;#Brexit;"746649153426456576";https://twitter.com/technollama/status/746649153426456576;0
+;2016-06-25 11:22;0;1;"Jon will execute Melisandre for killing Shireen and fulfill the Azor Ahai prophecy by killing her and possessing Lightbringer";;;;"746634538856521728";https://twitter.com/AdvreZ/status/746634538856521728;0
+;2016-06-25 10:34;0;0;"I liked a @YouTube video http:// youtu.be/-5C6kG57J7Q?a Melisandre at a Baby Shower - Late Night with Seth Meyers";;@YouTube;;"746622592707084292";https://twitter.com/fird1996/status/746622592707084292;0
+;2016-06-25 08:15;0;1;"But I like Melisandre I don't think I could see you in any other way M'Lady";;;;"746587622018060288";https://twitter.com/TheLadyOfGlenco/status/746587622018060288;0
+;2016-06-25 08:12;0;1;"I may appear to die. Do not believe Melisandre is all I am. I still serve the lord of light and I am the ultimate survivor.";;;;"746586929077059584";https://twitter.com/Melisandre6/status/746586929077059584;0
+;2016-06-25 08:06;0;1;"Nopee lol lady melisandre but the songs boring";;;;"746585295785594880";https://twitter.com/its_samreen/status/746585295785594880;0
+;2016-06-25 07:42;3;18;""What kind of God would do something like that?" "The one we got." That's a good fucking exchange between Melisandre and Jon";;;;"746579367715803136";https://twitter.com/ManuclearBomb/status/746579367715803136;4
+;2016-06-25 05:28;0;0;"I'm thinking Melisandre 's magic might be crucial in the battle against the white walkers. #AfterThrones #gameofthrones";;;#AfterThrones #gameofthrones;"746545466905485312";https://twitter.com/Mwforhr/status/746545466905485312;0
+;2016-06-25 04:58;0;0;"who is the real ptwp?? melisandre says jon but the other red woman says dany??";;;;"746538100575215616";https://twitter.com/rhaegvr/status/746538100575215616;0
+;2016-06-25 04:23;0;0;"Tommen High sparrow Margaery Melisandre All dying on Sunday?";;;;"746529110378295296";https://twitter.com/ManLikeDriz/status/746529110378295296;0
+;2016-06-25 03:55;0;0;"notable mentions include zombie catelyn, melisandre w no necklace, and the raven man stuck in the tree";;;;"746522208483278852";https://twitter.com/zunairaa12/status/746522208483278852;0
+;2016-06-25 03:25;0;1;"@Philliesfan0517 Please tell me you're not Melisandre ! #GameofThrones";;@Philliesfan0517;#GameofThrones;"746514584840855553";https://twitter.com/japope88/status/746514584840855553;0
+;2016-06-25 03:24;0;2;"We are trying to explain game of thrones to my dad. My brother pointed to melisandre and was like "this is a witch"";;;;"746514425977286659";https://twitter.com/afgbruins21/status/746514425977286659;0
+;2016-06-25 03:17;0;0;"oh yeah! Melisandre might be on her way out of here.";;;;"746512652931784704";https://twitter.com/Letternumber7/status/746512652931784704;3
+;2016-06-25 02:25;0;1;"With Mance Rayder singing "Come on baby light my fire" to Melisandre . pic.twitter.com/3ijX1Qn0t9";;;;"746499646386626560";https://twitter.com/saul_goodman__/status/746499646386626560;0
+;2016-06-25 00:20;0;2;"lmao WHEN MELISANDRE WAS A SOFTIE https:// twitter.com/caricevhouten/ status/744461042449846272 …";;;;"746468083150163968";https://twitter.com/blunchetts/status/746468083150163968;0
+;2016-06-24 23:01;0;2;"#ThronesPredictions : this one sucks but: Ser Davos'll try to murder Melisandre ...& she'll kill him. #GameOfThrones pic.twitter.com/ETVMhXxgk2";;;#ThronesPredictions #GameOfThrones;"746448150081110016";https://twitter.com/alicialutes/status/746448150081110016;0
+;2016-06-24 22:56;0;0;"‘Game of Thrones’ season 6 finale predictions: Will Davos kill Melisandre to avenge Shireen? [spoilers] - http:// tinyurl.com/gscwd77";;;;"746446817533952000";https://twitter.com/skyblueguru/status/746446817533952000;0
+;2016-06-24 22:32;0;0;"Melisandre took catfish to a different level. Legend https:// mobile.twitter.com/Cybvr/status/7 46439419926843392/photo/1 …";;;;"746440812469198848";https://twitter.com/theKingPipes/status/746440812469198848;0
+;2016-06-24 22:17;0;1;"There is only one hell, the one we live in now - Melisandre #GameofThrones";;;#GameofThrones;"746437039575470080";https://twitter.com/itsmeSusanna/status/746437039575470080;0
+;2016-06-24 22:06;0;1;"All I want for the next season of Game of Thrones is for Melisandre to bring back Ned Stark to kick everyone's ass";;;;"746434323834777600";https://twitter.com/Akelaa/status/746434323834777600;0
+;2016-06-24 21:58;0;0;"Tony Robbins is like a real life Melisandre https:// twitter.com/BreakingNews/s tatus/746213341157195776 …";;;;"746432295318347777";https://twitter.com/marksable/status/746432295318347777;0
+;2016-06-24 21:00;0;1;"She's Melisandre , she's Helen of Troy, she's a Bene Gesserit. She has mystical powers over dumb, powerful, awful men.";;;;"746417679544758272";https://twitter.com/DavidKlion/status/746417679544758272;0
+;2016-06-24 20:57;1;9;"davos će da ubije melisandre ? možda će melisandre ubiti davosa ako on proba da ubije nju? situacija je sranje u svakom slučaju";;;;"746416881993650177";https://twitter.com/sublime_grey/status/746416881993650177;0
+;2016-06-24 18:04;0;0;"How Game of Thrones Pulled off Melisandre ’s Dazzling,... http:// goo.gl/fb/DP7egd #gameofthrones";;;#gameofthrones;"746373499304960000";https://twitter.com/lydiavanborg/status/746373499304960000;0
+;2016-06-24 17:47;0;0;"Poison necklaces, Melisandre 's magic choker, and other uses of jewelry as enchantment on GoT: http:// thecut.io/28UJQoB";;;;"746369176151953408";https://twitter.com/Katie_M_Baker/status/746369176151953408;0
+;2016-06-24 17:30;0;1;"I'm voting for Bran or Dany's red priestess if she comes across the water bc Melisandre may not make it past the finale...";;;;"746364874847031297";https://twitter.com/DeadlyDiva/status/746364874847031297;0
+;2016-06-24 15:35;0;1;"Game of thrones makes me so fucking frustrated i am so done with melisandre and littlefinger 2 of the shadiest characters in the world";;;;"746335996187271168";https://twitter.com/dickgrayscn/status/746335996187271168;1
+;2016-06-24 15:29;0;0;"so Baratheon's have Targaryen blood after all. Not bad Melisandre , not bad";;;;"746334523701354497";https://twitter.com/ObetGinco/status/746334523701354497;4
+;2016-06-24 15:17;1;2;"Actually Melisandre beat you to it! #VoxOfThrones pic.twitter.com/odcT6bfLWI";;;#VoxOfThrones;"746331437071114241";https://twitter.com/vantaskigoli/status/746331437071114241;0
+;2016-06-24 14:51;0;2;"man, not even Melisandre of Asshai can fix this one...";;;;"746324784850542592";https://twitter.com/SergioLira100/status/746324784850542592;0
+;2016-06-24 13:49;3;4;"Melisandre : "If the lamb sees the knife, she panics. Her panic seeps into her meat, darkens it, fouls the flavor."";;;;"746309171872731136";https://twitter.com/Game_0fThrones/status/746309171872731136;4
+;2016-06-24 13:29;2;1;""Don't worry Melisandre will bring back Britain" someone tweeted and I can't lol enough.";;;;"746304130185052160";https://twitter.com/TheMadamEditor/status/746304130185052160;0
+;2016-06-24 12:01;2;10;"Maybe we should just ask Melisandre to bring him back and be over with it. #Brexit pic.twitter.com/OHHSTBZqgy";;;#Brexit;"746282195606773760";https://twitter.com/Albino_Direwolf/status/746282195606773760;0
+;2016-06-24 11:36;1;0;"Melisandre , Ramsay Bolton, Gusano Gris y Osha son 'Los cantantes de los Siete Reinos'. Hoy, en La Butaca http:// bit.ly/291u4Xe";;;;"746275810114420737";https://twitter.com/nurnuno/status/746275810114420737;0
+;2016-06-24 10:25;0;0;"it was too predictable, it was just a matter of who was going to come to the rescue. TBH I thought it would be Melisandre";;;;"746257972234432513";https://twitter.com/zunguthatsall/status/746257972234432513;0
+;2016-06-24 08:24;0;1;"Melisandre 's First Baby Shower";;;;"746227569226178560";https://twitter.com/zazameimei/status/746227569226178560;0
+;2016-06-24 07:37;0;2;"still mad at melisandre for sacrificing shireen";;;;"746215541463908352";https://twitter.com/theironthrones/status/746215541463908352;1
+;2016-06-24 07:31;2;0;"Melisandre : Death by fire is the purest death";;;;"746214114679152642";https://twitter.com/allgottweets/status/746214114679152642;4
+;2016-06-24 07:02;1;0;""alright alright" - melisandre 3000";;;;"746206734763458564";https://twitter.com/pussy4prezident/status/746206734763458564;0
+;2016-06-24 06:46;0;1;"Melisandre needs to resurrect Lincoln so he can keep the EU together.";;;;"746202848195534848";https://twitter.com/CaptainNoble/status/746202848195534848;0
+;2016-06-24 05:42;0;0;"The night is dark and full of terrors! -- Melisandre";;;;"746186749726982144";https://twitter.com/mikemickcon/status/746186749726982144;4
+;2016-06-24 05:29;0;1;"I'd rather have Melisandre 's upturned pontoon. #LFTP https:// twitter.com/machinesports/ status/746180636583485440 …";;;#LFTP;"746183327007182849";https://twitter.com/texaswingnut/status/746183327007182849;2
+;2016-06-24 05:16;0;0;"walking-fandoms: Can the finale just be Melisandre bringing Ramsay back so Sansa and Jon can kill him over... http:// ln.is/tumblr.com/Igl iH …";;;;"746180291480424448";https://twitter.com/Layxiphion/status/746180291480424448;0
+;2016-06-24 04:34;0;4;"Can someone make me a Melisandre meme that says, "for the night is dank and full of memes."? I need it for @bmcstreet";;@bmcstreet;;"746169597255094272";https://twitter.com/MadiValentine/status/746169597255094272;0
+;2016-06-24 04:30;0;0;"—ceremony had been held. Candles had been lit and a small gathering of Stark soldiers, Tormund, Davos, and even Melisandre had—";;;;"746168478604890112";https://twitter.com/IvoryTcSteel/status/746168478604890112;0
+;2016-06-24 04:25;0;0;"I'm pretty sure he will win. Mary washed his feet. Melisandre cut my hair. No contest.";;;;"746167321522122752";https://twitter.com/ConjuringCase/status/746167321522122752;0
+;2016-06-24 03:58;0;1;"Seems more like Melisandre has been sulking the entire season, no?";;;;"746160413226696704";https://twitter.com/sweetpea1008/status/746160413226696704;0
+;2016-06-24 03:54;0;1;"Nononono poussey NO! Melisandre has algo!!!!!!";;;;"746159532393508870";https://twitter.com/laurasdf/status/746159532393508870;0
+;2016-06-24 02:30;1;2;"Melisandre wears an Andy Katz ruby";;;;"746138404547608576";https://twitter.com/mattnjas_RN4L/status/746138404547608576;0
+;2016-06-24 02:28;0;3;"Andy Katz must be wearing a Melisandre Ruby! He looks the same way he looked 20 years ago! #NBADraft2016 #eSPN";;;#NBADraft2016 #eSPN;"746137899347763200";https://twitter.com/iontrone/status/746137899347763200;0
+;2016-06-24 02:16;6;7;"I'm convinced Woj does that shadow magic shit like Melisandre from GoT to eavesdrop on GM offices";;;;"746134777724571649";https://twitter.com/alphabashful/status/746134777724571649;0
+;2016-06-24 02:14;0;1;"And conveniently forgot once more that Melisandre can do magic things.";;;;"746134400165810176";https://twitter.com/GoT_Truther/status/746134400165810176;0
+;2016-06-24 02:08;0;1;""The night is dark and full of terrors" said Lady Melisandre talking about #Brexit #Remain #Leave #gameofthrones";;;#Brexit #Remain #Leave #gameofthrones;"746132878736654336";https://twitter.com/pecalc/status/746132878736654336;0
+;2016-06-24 02:04;0;1;"maybe he’s got Melisandre resurrecting him after every election?";;;;"746131789962436608";https://twitter.com/robfmac/status/746131789962436608;0
+;2016-06-24 00:51;0;1;"[Everything] Arya, Jon, Melisandre , and Azor Ahai http:// ift.tt/28QeGek #GameOfThrones";;;#GameOfThrones;"746113501450616833";https://twitter.com/BlakeShelnot/status/746113501450616833;0
+;2016-06-24 00:38;0;1;"Why is Melisandre always getting naked?";;;;"746110122649346048";https://twitter.com/whoanormani/status/746110122649346048;0
+;2016-06-23 23:41;0;2;"[Allows Melisandre to worship me.]";;;;"746095842461777920";https://twitter.com/BedeviledVixen/status/746095842461777920;2
+;2016-06-23 23:17;0;4;"Melisandre approves pic.twitter.com/3NkDL1N4Va";;;;"746089896499097601";https://twitter.com/Addru_/status/746089896499097601;0
+;2016-06-23 23:00;0;1;"I fancy melisandre from game of thrones so much for some weird reason";;;;"746085606552395777";https://twitter.com/AaronWardicus/status/746085606552395777;2
+;2016-06-23 21:45;0;1;"mélisandre <33";;;;"746066692078440448";https://twitter.com/horanzwolf/status/746066692078440448;2
+;2016-06-23 21:43;0;0;"Alright, and now a theory involving Melisandre , Jon Snow, Arya, and Azor Ahai. It's a bit of a stretch but could potentially happen";;;;"746066218218553344";https://twitter.com/Klitz_/status/746066218218553344;0
+;2016-06-23 21:27;0;0;"I just realised that I've seen nothing this season besides Melisandre https:// twitter.com/siyasandas/sta tus/746061423894216704 …";;;;"746062198968094720";https://twitter.com/BadvocateK/status/746062198968094720;0
+;2016-06-23 21:17;6;27;"Melisandre created the original NBA Draft smokescreen";;;;"746059709166157824";https://twitter.com/Michael_Levin/status/746059709166157824;0
+;2016-06-23 20:58;1;0;"Melisandre doesn't die #GameofThrones #gotleaks #gotspoiler";;;#GameofThrones #gotleaks #gotspoiler;"746054805534154756";https://twitter.com/GoT_Spoilers_/status/746054805534154756;0
+;2016-06-23 20:55;0;17;"melisandre boginja pic.twitter.com/mi7XLGOpZo";;;;"746054154209140736";https://twitter.com/lezbejkaizpakla/status/746054154209140736;2
+;2016-06-23 20:55;0;1;"did #Melisandre burnt #LyannaMormont ? #got #gameofthrones";;;#Melisandre #LyannaMormont #got #gameofthrones;"746054127164100609";https://twitter.com/Kazi_Asad_Robin/status/746054127164100609;0
+;2016-06-23 20:54;0;1;"Dear Melisandre : what I want for R'hllormas is: The dead Stark's alive Gendry to return And for Loras's curls to. Return";;;;"746053747147681792";https://twitter.com/LordElendyl/status/746053747147681792;0
+;2016-06-23 20:22;0;1;"My Dinner With Melisandre #GoTMovies";;;#GoTMovies;"746045818033999872";https://twitter.com/ANGRYref/status/746045818033999872;0
+;2016-06-23 19:45;0;0;"You can't kill him. Melisandre will just bring him back :)";;;;"746036558919139329";https://twitter.com/blitzenfox/status/746036558919139329;4
+;2016-06-23 19:23;1;0;"Lyanna Stark + Rhaegar Targaryen + Ned Stark's Vow and Honor + Melisandre 's Prophecy for a King's blood = Jon Targaryen.";;;;"746030970512412672";https://twitter.com/howeirdo/status/746030970512412672;0
+;2016-06-23 18:51;0;2;"Vesteroška prognoza, part 1 Hoće li Davos za osvetu ubiti Melisandre ?";;;;"746022971387568128";https://twitter.com/MonaLisa1797/status/746022971387568128;0
+;2016-06-23 18:29;0;0;"Melisandre at a Baby Shower - Late Night with Seth Meyers https:// youtu.be/-5C6kG57J7Q agora vamos lembrar da Melisandre";;;;"746017297756717056";https://twitter.com/irradiattion/status/746017297756717056;0
+;2016-06-23 18:01;0;1;"Curious to see how the davos/ melisandre setup will play out. #BattleOfTheBastards";;;#BattleOfTheBastards;"746010385464107008";https://twitter.com/ncjammy/status/746010385464107008;0
+;2016-06-23 17:47;0;1;"Wait...could Melisandre be Lady Stoneheart? #gameofthrones";;;#gameofthrones;"746006682392723457";https://twitter.com/JohnJMcDaniel/status/746006682392723457;0
+;2016-06-23 15:41;2;10;""The night is dark and full of terriers" - Melisandre at a dog show #GameOfBones";;;#GameOfBones;"745975128949932032";https://twitter.com/BigOlBossman/status/745975128949932032;0
+;2016-06-23 15:40;0;17;"brat: melisandre ce verovatno umreti sad u ovoj epizodi ja: izadji iz sobe zatvori vrata i nestani";;;;"745974734232363008";https://twitter.com/lezbejkaizpakla/status/745974734232363008;0
+;2016-06-23 15:39;0;2;"Melisandre is a fking bitch!";;;;"745974644402860032";https://twitter.com/sooying95723/status/745974644402860032;1
+;2016-06-23 15:36;0;0;"1) Samwell 2) Brienne 3) Theon 4) Hodor 5) Melisandre https:// twitter.com/sondage_tvshow s/status/744982899397648384 …";;;;"745973919123910656";https://twitter.com/MissNygma/status/745973919123910656;0
+;2016-06-23 15:09;0;2;"I. Hate. Melisandre . And. Stannis.";;;;"745967043699159044";https://twitter.com/momentsammler/status/745967043699159044;1
+;2016-06-23 14:16;0;1;"Melisandre";;;;"745953676607496192";https://twitter.com/TronoDiSpade_it/status/745953676607496192;0
+;2016-06-23 14:00;1;2;"@GameOfThrones IRL Jon: Any advice? Melisandre : Don't lose. J: If I do, if I fall, don't bring me back. M: Seen 9:24 PM #GameofThrones";;@GameOfThrones;#GameofThrones;"745949655666561025";https://twitter.com/aleengnzls/status/745949655666561025;0
+;2016-06-23 14:00;1;0;"Melisandre is dead https:// twitter.com/3b0d20/status/ 745012126432038912 …";;;;"745949623248916480";https://twitter.com/MAIyaf3i/status/745949623248916480;0
+;2016-06-23 13:53;0;1;"Really looking forward to his Rant against Melisandre in the finale.";;;;"745947920193757184";https://twitter.com/yanni4100/status/745947920193757184;3
+;2016-06-23 13:29;0;1;"Melisandre said she and Arya would meet again. Mel is the same place as Sansa. I have hope!";;;;"745941815426224128";https://twitter.com/GameOverRos/status/745941815426224128;3
+;2016-06-23 13:18;0;5;"HUHU NSTP say good bye to Ariel/Jean Grey/ Melisandre /Charmander pic.twitter.com/tNE1Q8FWm7";;;;"745939191758872576";https://twitter.com/claustrorioph/status/745939191758872576;0
+;2016-06-23 13:14;0;0;"Melisandre https:// twitter.com/demmierozay/st atus/745900307025104897 …";;;;"745938124212142080";https://twitter.com/OsaObanor_/status/745938124212142080;0
+;2016-06-23 12:45;0;1;"bloody unions -even 2 yrs after dying , he's taking a huge salary . I blame Melisandre";;;;"745930796511412224";https://twitter.com/beta_dad/status/745930796511412224;0
+;2016-06-23 08:52;1;1;"Karina's wonderful cosplay of Melisandre from Game of Thrones featuring one of our Lola corsets!... http:// fb.me/18IlUSS4R";;;;"745872046513655808";https://twitter.com/gserpentine/status/745872046513655808;0
+;2016-06-23 08:02;0;2;"Snapchat on that Melisandre filter pic.twitter.com/Cx0dMjqpPt";;;;"745859639267442688";https://twitter.com/MonyqueXO/status/745859639267442688;0
+;2016-06-23 07:57;0;2;"bring Melisandre from GOT to bring Poussey back";;;;"745858363301429248";https://twitter.com/Roubiliciouness/status/745858363301429248;2
+;2016-06-23 07:54;4;15;"Now I want a Melisandre skin for Overwatch. pic.twitter.com/RYe1bCLXnS";;;;"745857525514444804";https://twitter.com/hbi2k/status/745857525514444804;2
+;2016-06-23 07:50;0;0;"walking-fandoms: Can the finale just be Melisandre bringing Ramsay back so Sansa and Jon can kill... http:// gameofthronessnowbound.blogspot.com/2016/06/walkin g-fandoms-can-finale-just-be.html … game of thron…";;;;"745856438745108480";https://twitter.com/JonSnowbound/status/745856438745108480;0
+;2016-06-23 07:25;0;1;"I'm sure you think Melisandre is a god too..";;;;"745850318450212865";https://twitter.com/TheDancer0220/status/745850318450212865;0
+;2016-06-23 07:10;0;0;"Melisandre can solve one of those problems. A king can solve the other.";;;;"745846417382584320";https://twitter.com/dhmontgomery/status/745846417382584320;0
+;2016-06-23 05:58;0;2;"we need Melisandre from #GameofThrones to bring him back to life!";;;#GameofThrones;"745828330641952773";https://twitter.com/KathleenKiwi/status/745828330641952773;0
+;2016-06-23 05:55;0;3;"after melisandre says their god is the kind of god that would kill someone shortly after resurrecting them";;;;"745827579538579456";https://twitter.com/realgunderwear/status/745827579538579456;0
+;2016-06-23 05:55;0;0;"game-of-style: Melisandre - Emilio de la Morena fall 2014 https:// tmblr.co/ZpFZAn28FNgCF";;;;"745827542993559552";https://twitter.com/Paulinagazer/status/745827542993559552;0
+;2016-06-23 05:44;0;1;"Ok, yes, it is a high price but omg you look like a spooky Melisandre in these.";;;;"745824870991278084";https://twitter.com/acegiak/status/745824870991278084;0
+;2016-06-23 05:29;1;0;"You could totally cosplay Melisandre . You'd nail it!";;;;"745821100764958720";https://twitter.com/EddardStark_1/status/745821100764958720;0
+;2016-06-23 05:29;0;0;"Wait. Why didn't Melisandre bring back Rikkon? Whyyyyyyy #GameofThrones #rewatch";;;#GameofThrones #rewatch;"745821067814408193";https://twitter.com/KelliMPfister/status/745821067814408193;0
+;2016-06-23 04:57;0;1;"• melisandre is so bad bro";;;;"745813049093742593";https://twitter.com/TheElusiveLime/status/745813049093742593;1
+;2016-06-23 04:27;0;0;"So, why can't Jon ask #Melisandre to bring #RickonStark back? And #WunWun while you're at it. #GameofThrones #justsaying";;;#Melisandre #RickonStark #WunWun #GameofThrones #justsaying;"745805330651578368";https://twitter.com/DobaDarris/status/745805330651578368;0
+;2016-06-23 04:26;0;4;"This episode introduces new heroes Speed Borat, Melisandre and Michael Fassbender in a weird cape made from a bedsheet";;;;"745805229266964480";https://twitter.com/mcgee_gorgo/status/745805229266964480;0
+;2016-06-23 04:26;1;3;"will melisandre die ? if so, which season?";;;;"745805092696231937";https://twitter.com/BestGoTScenes/status/745805092696231937;0
+;2016-06-23 03:48;0;1;"Perhaps that's where Ghost was. Out fetching Nymeria. Plus Melisandre told Arya they would meet again in a previous season.";;;;"745795629822189569";https://twitter.com/TheManFlower/status/745795629822189569;0
+;2016-06-23 03:29;2;2;"Reminder: GRRM said Melisandre is misunderstood!";;;;"745790812592627712";https://twitter.com/iontrone/status/745790812592627712;0
+;2016-06-23 02:43;0;4;"Maybe Melisandre will resurrect Ramsay so we can kill him again";;;;"745779188657840128";https://twitter.com/destnasty/status/745779188657840128;0
+;2016-06-23 02:35;2;2;"We need Melisandre to do her magic for Colbra.";;;;"745777231532691456";https://twitter.com/KatyyyyBug/status/745777231532691456;0
+;2016-06-23 02:31;0;1;""You tell him what you did to her. Tell him." — Ser Davos to Melisandre";;;;"745776365031415808";https://twitter.com/LlSAOPPA/status/745776365031415808;0
+;2016-06-23 02:30;2;5;"Wake up like Jon Snow when Melisandre brought him back. IT'S NOT A GAME. THEY AIN'T FOR THE FAINT OF HEART.";;;;"745776010633715713";https://twitter.com/brownandbella/status/745776010633715713;0
+;2016-06-23 01:59;0;0;"Melisandre pic.twitter.com/LKuAfR2Vsw";;;;"745768078336753664";https://twitter.com/sherholmeswho/status/745768078336753664;0
+;2016-06-23 01:56;1;5;"Why doesn't Melisandre go magical on Rickon? Or on the 3k bodies who died for the Starks?";;;;"745767451732905984";https://twitter.com/ScottCollura/status/745767451732905984;0
+;2016-06-23 01:12;0;0;"yeppers. I think Melisandre will be the vehicle they use to expose Jon's true lineage. I shall be interesting =)";;;;"745756281957421056";https://twitter.com/essayjenkins/status/745756281957421056;0
+;2016-06-23 01:06;1;0;"Somebody call Melisandre to revive mih https:// twitter.com/blahzayvanguar d/status/745704704106061824 …";;;;"745754972784992256";https://twitter.com/whatiskemuel/status/745754972784992256;0
+;2016-06-23 01:03;1;26;"Crush: "I want someone who spoils me." Me: "Bubuhayin ni Melisandre si Jon Snow."";;;;"745754139355807747";https://twitter.com/luwedgie_/status/745754139355807747;0
+;2016-06-23 00:56;0;0;"Is Davos About to Kill Melisandre on Game of Thrones? Here’s What We Know http:// goo.gl/eoDyiF";;;;"745752230154772480";https://twitter.com/ABKNewsOfficial/status/745752230154772480;0
+;2016-06-23 00:45;0;1;"Robert's bastard son -- the one Melisandre started to screw in season 2 and then she put leeches on his dick.";;;;"745749677836898304";https://twitter.com/KaraCalavera/status/745749677836898304;0
+;2016-06-23 00:33;0;0;"Why doesn't Sansa or Davos get Melisandre to bring Rickon back from the dead?";;;;"745746559040655360";https://twitter.com/CasterlyDuff/status/745746559040655360;0
+;2016-06-23 00:21;0;0;"Melisandre is like that really creepy, possessive girlfriend who steals your best friend away and doesn't let him come hang out.";;;;"745743624772722688";https://twitter.com/b0thsidesn0w/status/745743624772722688;1
+;2016-06-23 00:06;1;0;"My prediction is Ser Davos is about to give Melisandre that fade over Shireen. #GameofThrones";;;#GameofThrones;"745739728780169216";https://twitter.com/GrooveSDC/status/745739728780169216;0
+;2016-06-22 23:55;0;1;"@TheRedWoman Melisandre , bring back Wun Wun please! :'(";;@TheRedWoman;;"745737084984516608";https://twitter.com/LordiMathias/status/745737084984516608;0
+;2016-06-22 23:55;0;2;"¿ Melisandre ? https:// twitter.com/petyrbaelishes p/status/745732345689440257 …";;;;"745737000741896192";https://twitter.com/Ygritte_Snow/status/745737000741896192;0
+;2016-06-22 23:52;0;0;"And now Melisandre looks old. This is some picture of Dorian Gray type stuff right here. #AnnieWatchesGOT";;;#AnnieWatchesGOT;"745736194156335104";https://twitter.com/nerdygaylaura/status/745736194156335104;0
+;2016-06-22 23:29;0;1;"Melisandre (GoT). pic.twitter.com/YZmJfsUTSo";;;;"745730534987423744";https://twitter.com/Hyde_Sherlocked/status/745730534987423744;0
+;2016-06-22 23:16;0;0;"Oh yeah, Melisandre won't just slink back into her witch cave, and Davos will get murderous once he finds out abt Shireen!";;;;"745727077391949824";https://twitter.com/thelea1/status/745727077391949824;0
+;2016-06-22 22:16;0;0;"Davos finding out how Shireen died is going to be bad news for Melisandre and by extension - The Starks..";;;;"745712174153240576";https://twitter.com/ThaNephilim/status/745712174153240576;0
+;2016-06-22 22:03;0;1;"Screw you, melisandre #AnnieWatchesGOT";;;#AnnieWatchesGOT;"745708904747773952";https://twitter.com/nerdygaylaura/status/745708904747773952;1
+;2016-06-22 22:01;7;4;"melisandre the red woman pic.twitter.com/mykzcXpY1X";;;;"745708297261580288";https://twitter.com/athelstn/status/745708297261580288;0
