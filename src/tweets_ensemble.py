@@ -29,8 +29,8 @@ df = pd.read_csv('../data/random/amazon_cells_labelled.txt',
                  delimiter='\t',
                  quoting=3)
 
-clean_test_tweets += clean_tweets(df['tweet'])
-test_sentiments += format_sentiments(df['sentiment'])
+clean_train_tweets += clean_tweets(df['tweet'])
+train_sentiments += format_sentiments(df['sentiment'])
 
 df = pd.read_csv('../data/random/imdb_labelled.txt',
                  header=0,
@@ -68,13 +68,17 @@ vectorizer = TfidfVectorizer(analyzer = 'word',
 # Fit the Bag of Words model
 # Create feature vectors for every review
 print 'Fit bag of words and create feature vectors for training data'
-train_data_features = vectorizer.fit_transform(clean_train_tweets)
+vectorizer.fit(clean_train_tweets)
+
+train_data_features = vectorizer.transform(clean_train_tweets)
 train_data_features = train_data_features.toarray()
 
 train_sentiments = np.array(train_sentiments)
 
-test_data_features = vectorizer.fit_transform(clean_test_tweets)
+'''
+test_data_features = vectorizer.transform(clean_test_tweets)
 test_data_features = test_data_features.toarray()
+'''
 
 # print 'Fit SVM model'
 clf = svm.SVC(kernel='linear', C=1, probability=True)
@@ -129,7 +133,6 @@ for train_index, test_index in sss.split(train_data_features, train_sentiments):
                            voting = 'soft').fit(X_train, y_train)
   print(ensemble.score(X_test, y_test))
 
-'''
 result = ensemble.predict(test_data_features)
 
 cnt = 0
@@ -140,3 +143,4 @@ for sent in test_sentiments:
   i += 1
 
 print cnt
+'''

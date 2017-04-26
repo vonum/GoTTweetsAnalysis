@@ -14,7 +14,7 @@ def filter_tweets(tweets, sentiment):
 
   for index, row in tweets.iterrows():
     if row['sentiment'] == sentiment:
-      pos_tweets.append(row['tweet'])
+      pos_tweets.append(row['text'])
 
   return pos_tweets
 
@@ -22,12 +22,12 @@ sentiment = int(sys.argv[1])
 
 tweets = []
 
-df = pd.read_csv('../data/random/amazon_cells_labelled.txt',
-                 header=0,
-                 delimiter='\t',
-                 quoting=3)
+df = pd.read_csv('../data/Tweets.csv')
+
+print df.columns.values
 
 tweets += filter_tweets(df, sentiment)
+'''
 
 df = pd.read_csv('../data/random/imdb_labelled.txt',
                  header=0,
@@ -43,12 +43,13 @@ df = pd.read_csv('../data/random/yelp_labelled.txt',
 
 tweets += filter_tweets(df, sentiment)
 
-df = pd.read_csv('../data/random/train_data.txt',
+df = pd.read_csv('../data/random/amazon_cells_labelled.txt',
                  header=0,
                  delimiter='\t',
                  quoting=3)
 
 tweets += filter_tweets(df, sentiment)
+'''
 
 if sys.argv[2] == 'clean':
   tweets = clean_tweets(tweets)

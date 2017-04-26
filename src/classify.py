@@ -1,3 +1,5 @@
+import sys
+
 import numpy as np
 import pandas as pd
 
@@ -17,7 +19,8 @@ from text_cleaner import *
 vectorizer = joblib.load('../models/ensemble_vectorizer.pkl')
 ensemble = joblib.load('../models/ensemble.pkl')
 
-df = pd.read_csv('../data/got/jon.txt',
+char = sys.argv[1]
+df = pd.read_csv('../data/got/{0}.txt'.format(char),
                  header=0,
                  delimiter=';',
                  quoting=3)

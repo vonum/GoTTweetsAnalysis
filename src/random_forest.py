@@ -21,6 +21,10 @@ print test.shape
 print 'Cleaning training data'
 clean_train_reviews = clean_tweets(train['review'])
 
+# Clean test data
+print 'Cleaning test data'
+clean_test_reviews = clean_tweets(test['review'])
+
 print 'Cleaned review'
 print clean_train_reviews[0]
 
@@ -34,8 +38,12 @@ vectorizer = CountVectorizer(analyzer = 'word',
 # Fit the Bag of Words model
 # Create feature vectors for every review
 print 'Fit bag of words and create feature vectors'
-train_data_features = vectorizer.fit_transform(clean_train_reviews)
+vectorizer.fit(clean_train_reviews + clean_test_reviews)
+train_data_features = vectorizer.transform(clean_train_reviews)
 train_data_features = train_data_features.toarray()
+
+test_data_features = vectorizer.transform(clean_test_reviews)
+test_data_features = test_data_features.toarray()
 
 # Take a look at the words in the vocabulary
 # vocab = vectorizer.get_feature_names()
@@ -55,3 +63,15 @@ joblib.dump(vectorizer, '../models/vectorizer.pkl')
 # Load model
 # forest = joblib.load('../models/random_forest.pkl')
 # vectorizer = joblib.load('../models/vectorizer.pkl')
+
+# Predict results for training data
+result = forest.predict(test_data_features)
+
+cnt = 0
+i = 0
+for sent in test['sentiment']:
+  if sent == result[i]:
+    cnt += 1
+  i += 1
+
+print 'Total matches: {0}'.format(cnt)
