@@ -34,4 +34,5 @@ tweets_features = tweets_features.toarray()
 
 results = ensemble.predict(tweets_features)
 
+print 'Results'
 print Counter(results)

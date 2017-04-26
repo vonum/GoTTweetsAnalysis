@@ -44,9 +44,10 @@ print 'Fit SVM with cross validation'
 clf = svm.SVC(kernel='linear', C=1).fit(train_data_features, train['sentiment'])
 # scores = cross_val_score(clf, train_data_features, train['sentiment'], cv=5)
 
-'''
-# joblib.dump(clf, '../models/svm.pkl')
+joblib.dump(vectorizer, '../models/tfidf_vectorizer.pkl')
+joblib.dump(clf, '../models/svm.pkl')
 
+'''
 print scores
 
 # Load models
